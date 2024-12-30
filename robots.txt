@@ -1,4 +1,5 @@
+
 User-agent: *
-Disallow: 
+Disallow:
 Disallow: /cgi-bin/
 Sitemap: https://greylabelfx.com/sitemap.xml
