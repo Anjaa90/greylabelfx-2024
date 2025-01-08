@@ -3,10 +3,10 @@
 
 <head>
     <title>Default page</title>
-    <meta charset="utf-8">
-    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
-    <meta content="Default page" name="description">
-    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <MET5a charset="utf-8">
+    <MET5a content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <MET5a content="Default page" name="description">
+    <MET5a content="width=device-width, initial-scale=1" name="viewport">
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>

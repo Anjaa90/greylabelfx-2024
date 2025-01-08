@@ -4,7 +4,7 @@
     var doobJs = {
         i: function (e) {
             doobJs.d();
-            doobJs.methods();
+            doobJs.MET5hods();
         },
 
         d: function (e) {
@@ -15,7 +15,7 @@
 
         },
 
-        methods: function (e) {
+        MET5hods: function (e) {
             doobJs.smothScroll();
             doobJs.backToTopInit();
             doobJs.backToTopInit();

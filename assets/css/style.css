@@ -1132,7 +1132,7 @@ All Extend Here
 
 /*=============== Style Css =============*/
 
-.rn-meta-list,
+.rn-MET5a-list,
 .advance-pricing .pricing-right .plan-offer-list,
 .advance-brand,
 .breadcrumb-inner ul.page-list {
@@ -1147,14 +1147,14 @@ All Extend Here
 .rbt-single-widget.widget_recent_entries ul li span,
 .rbt-single-widget.widget_archive ul li span,
 .rbt-single-widget.widget_categories ul li span,
-.rbt-single-widget.widget_meta ul li span,
+.rbt-single-widget.widget_MET5a ul li span,
 .rbt-single-widget.widget_pages ul li span,
 .rbt-single-widget.widget_nav_menu ul li span,
 .rbt-single-widget.widget_recent_comments ul li a,
 .rbt-single-widget.widget_recent_entries ul li a,
 .rbt-single-widget.widget_archive ul li a,
 .rbt-single-widget.widget_categories ul li a,
-.rbt-single-widget.widget_meta ul li a,
+.rbt-single-widget.widget_MET5a ul li a,
 .rbt-single-widget.widget_pages ul li a,
 .rbt-single-widget.widget_nav_menu ul li a,
 .rn-address .inner p a,
@@ -10814,78 +10814,78 @@ div.btn-default.rounded-player.sm-size {
     Portfolio Grid Layout  
 ----------------------------------*/
 
-.grid-metro2 {
+.grid-MET5ro2 {
     margin: 0 -15px;
 }
 
-.grid-metro2 .portfolio-2 {
+.grid-MET5ro2 .portfolio-2 {
     width: 50%;
     padding: 0 15px;
     margin-top: 30px;
 }
 
 @media only screen and (max-width: 575px) {
-    .grid-metro2 .portfolio-2 {
+    .grid-MET5ro2 .portfolio-2 {
         width: 100%;
     }
 }
 
-.grid-metro2 .resizer {
+.grid-MET5ro2 .resizer {
     width: 50%;
 }
 
 @media only screen and (max-width: 575px) {
-    .grid-metro2 .resizer {
+    .grid-MET5ro2 .resizer {
         width: 100%;
     }
 }
 
-.grid-metro3 {
+.grid-MET5ro3 {
     margin: 0 -15px;
 }
 
-.grid-metro3 .portfolio-3 {
+.grid-MET5ro3 .portfolio-3 {
     width: 33.33%;
     padding: 0 15px;
     margin-top: 30px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .grid-metro3 .portfolio-3 {
+    .grid-MET5ro3 .portfolio-3 {
         width: 50%;
     }
 }
 
 @media only screen and (max-width: 767px) {
-    .grid-metro3 .portfolio-3 {
+    .grid-MET5ro3 .portfolio-3 {
         width: 50%;
     }
 }
 
 @media only screen and (max-width: 575px) {
-    .grid-metro3 .portfolio-3 {
+    .grid-MET5ro3 .portfolio-3 {
         width: 100%;
     }
 }
 
-.grid-metro3 .resizer {
+.grid-MET5ro3 .resizer {
     width: 33.33%;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .grid-metro3 .resizer {
+    .grid-MET5ro3 .resizer {
         width: 50%;
     }
 }
 
 @media only screen and (max-width: 767px) {
-    .grid-metro3 .resizer {
+    .grid-MET5ro3 .resizer {
         width: 50%;
     }
 }
 
 @media only screen and (max-width: 575px) {
-    .grid-metro3 .resizer {
+    .grid-MET5ro3 .resizer {
         width: 100%;
     }
 }
@@ -13538,11 +13538,11 @@ iframe {
     color: var(--color-primary);
 }
 
-.rn-card.content-transparent .content .rn-meta-list li {
+.rn-card.content-transparent .content .rn-MET5a-list li {
     color: #acaeb1;
 }
 
-.rn-card.content-transparent .content .rn-meta-list li a {
+.rn-card.content-transparent .content .rn-MET5a-list li a {
     color: #acaeb1;
 }
 
@@ -13560,7 +13560,7 @@ iframe {
     transform: scale(1.1);
 }
 
-.rn-meta-list {
+.rn-MET5a-list {
     font-size: 1.4rem;
     line-height: 2.2rem;
     display: flex;
@@ -13568,19 +13568,19 @@ iframe {
     flex-wrap: wrap;
 }
 
-.rn-meta-list li {
+.rn-MET5a-list li {
     margin-top: 0;
     margin-bottom: 0;
     color: var(--color-gray);
     font-size: 14px;
 }
 
-.rn-meta-list li a {
+.rn-MET5a-list li a {
     color: var(--color-gray);
     transition: 0.5s;
 }
 
-.rn-meta-list li.separator {
+.rn-MET5a-list li.separator {
     margin: 0 0.8rem;
 }
 
@@ -13710,7 +13710,7 @@ iframe {
 .rbt-single-widget.widget_recent_entries ul li,
 .rbt-single-widget.widget_archive ul li,
 .rbt-single-widget.widget_categories ul li,
-.rbt-single-widget.widget_meta ul li,
+.rbt-single-widget.widget_MET5a ul li,
 .rbt-single-widget.widget_pages ul li,
 .rbt-single-widget.widget_nav_menu ul li {
     position: relative;
@@ -13725,7 +13725,7 @@ iframe {
 .rbt-single-widget.widget_recent_entries ul li a,
 .rbt-single-widget.widget_archive ul li a,
 .rbt-single-widget.widget_categories ul li a,
-.rbt-single-widget.widget_meta ul li a,
+.rbt-single-widget.widget_MET5a ul li a,
 .rbt-single-widget.widget_pages ul li a,
 .rbt-single-widget.widget_nav_menu ul li a {
     color: var(--color-body);
@@ -13735,7 +13735,7 @@ iframe {
 .rbt-single-widget.widget_recent_entries ul li a:hover,
 .rbt-single-widget.widget_archive ul li a:hover,
 .rbt-single-widget.widget_categories ul li a:hover,
-.rbt-single-widget.widget_meta ul li a:hover,
+.rbt-single-widget.widget_MET5a ul li a:hover,
 .rbt-single-widget.widget_pages ul li a:hover,
 .rbt-single-widget.widget_nav_menu ul li a:hover {
     color: var(--color-primary);
@@ -13745,7 +13745,7 @@ iframe {
 .rbt-single-widget.widget_recent_entries ul li span,
 .rbt-single-widget.widget_archive ul li span,
 .rbt-single-widget.widget_categories ul li span,
-.rbt-single-widget.widget_meta ul li span,
+.rbt-single-widget.widget_MET5a ul li span,
 .rbt-single-widget.widget_pages ul li span,
 .rbt-single-widget.widget_nav_menu ul li span {
     color: var(--color-body);
@@ -13755,7 +13755,7 @@ iframe {
 .rbt-single-widget.widget_recent_entries ul li:hover a span,
 .rbt-single-widget.widget_archive ul li:hover a span,
 .rbt-single-widget.widget_categories ul li:hover a span,
-.rbt-single-widget.widget_meta ul li:hover a span,
+.rbt-single-widget.widget_MET5a ul li:hover a span,
 .rbt-single-widget.widget_pages ul li:hover a span,
 .rbt-single-widget.widget_nav_menu ul li:hover a span {
     color: var(--color-primary);
@@ -13765,7 +13765,7 @@ iframe {
 .rbt-single-widget.widget_recent_entries ul li+li,
 .rbt-single-widget.widget_archive ul li+li,
 .rbt-single-widget.widget_categories ul li+li,
-.rbt-single-widget.widget_meta ul li+li,
+.rbt-single-widget.widget_MET5a ul li+li,
 .rbt-single-widget.widget_pages ul li+li,
 .rbt-single-widget.widget_nav_menu ul li+li {
     border-top: 1px solid var(--color-border);
@@ -13775,7 +13775,7 @@ iframe {
 .rbt-single-widget.widget_recent_entries>ul>li,
 .rbt-single-widget.widget_archive>ul>li,
 .rbt-single-widget.widget_categories>ul>li,
-.rbt-single-widget.widget_meta>ul>li,
+.rbt-single-widget.widget_MET5a>ul>li,
 .rbt-single-widget.widget_pages>ul>li {
     margin-top: 0;
     margin-bottom: 0;
@@ -13785,7 +13785,7 @@ iframe {
 .rbt-single-widget.widget_recent_entries>ul>li:first-child,
 .rbt-single-widget.widget_archive>ul>li:first-child,
 .rbt-single-widget.widget_categories>ul>li:first-child,
-.rbt-single-widget.widget_meta>ul>li:first-child,
+.rbt-single-widget.widget_MET5a>ul>li:first-child,
 .rbt-single-widget.widget_pages>ul>li:first-child {
     margin-top: 0;
 }
@@ -13794,7 +13794,7 @@ iframe {
 .rbt-single-widget.widget_recent_entries>ul>li:last-child,
 .rbt-single-widget.widget_archive>ul>li:last-child,
 .rbt-single-widget.widget_categories>ul>li:last-child,
-.rbt-single-widget.widget_meta>ul>li:last-child,
+.rbt-single-widget.widget_MET5a>ul>li:last-child,
 .rbt-single-widget.widget_pages>ul>li:last-child {
     margin-bottom: 10px;
 }
@@ -13878,11 +13878,11 @@ iframe {
     Blog Details 
 ----------------------------------*/
 
-.post-page-banner .rn-meta-list {
+.post-page-banner .rn-MET5a-list {
     justify-content: center;
 }
 
-.post-page-banner .rn-meta-list li {
+.post-page-banner .rn-MET5a-list li {
     color: var(--color-body);
     font-size: 20px;
     margin: 0 15px;
@@ -13890,29 +13890,29 @@ iframe {
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .post-page-banner .rn-meta-list li {
+    .post-page-banner .rn-MET5a-list li {
         font-size: 16px;
         margin-top: 8px;
     }
 }
 
 @media only screen and (max-width: 767px) {
-    .post-page-banner .rn-meta-list li {
+    .post-page-banner .rn-MET5a-list li {
         font-size: 16px;
         margin-top: 8px;
     }
 }
 
-.post-page-banner .rn-meta-list li svg {
+.post-page-banner .rn-MET5a-list li svg {
     margin-right: 10px;
 }
 
-.post-page-banner .rn-meta-list li a {
+.post-page-banner .rn-MET5a-list li a {
     color: var(--color-body);
     transition: 0.3s;
 }
 
-.post-page-banner .rn-meta-list li a:hover {
+.post-page-banner .rn-MET5a-list li a:hover {
     color: var(--color-primary);
 }
 
@@ -13941,7 +13941,7 @@ iframe {
     display: none;
 }
 
-.blog-details-content .category-meta {
+.blog-details-content .category-MET5a {
     display: flex;
     padding: 42px 0;
     border-top: 1px solid var(--color-border);
@@ -13949,7 +13949,7 @@ iframe {
     flex-wrap: wrap;
 }
 
-.blog-details-content .category-meta span.text {
+.blog-details-content .category-MET5a span.text {
     color: var(--color-white);
     font-size: 22px;
     display: inline-block;
@@ -15455,7 +15455,7 @@ body.active-light-mode .rbt-single-widget.widget_recent_entries .inner a,
 body.active-light-mode .tagcloud a,
 body.active-light-mode .wp-block-tag-cloud a,
 body.active-light-mode .rwt-portfolio-details .content-left .single-list-wrapper .single-list label,
-body.active-light-mode .blog-details-content .category-meta span.text,
+body.active-light-mode .blog-details-content .category-MET5a span.text,
 body.active-light-mode .demo-slider-area.slider-style-1 .inner .title,
 body.active-light-mode .rn-back-top svg,
 body.active-light-mode .popup-mobile-menu .inner .header-top .close-menu .close-button,
@@ -15538,7 +15538,7 @@ body.active-light-mode .rbt-single-widget.widget_recent_comments ul li a,
 body.active-light-mode .rbt-single-widget.widget_recent_entries ul li a,
 body.active-light-mode .rbt-single-widget.widget_archive ul li a,
 body.active-light-mode .rbt-single-widget.widget_categories ul li a,
-body.active-light-mode .rbt-single-widget.widget_meta ul li a,
+body.active-light-mode .rbt-single-widget.widget_MET5a ul li a,
 body.active-light-mode .rbt-single-widget.widget_pages ul li a,
 body.active-light-mode .rbt-single-widget.widget_nav_menu ul li a,
 body.active-light-mode .rbt-single-widget.widget_recent_entries .inner span,
@@ -15546,11 +15546,11 @@ body.active-light-mode .rbt-single-widget.widget_recent_comments ul li span,
 body.active-light-mode .rbt-single-widget.widget_recent_entries ul li span,
 body.active-light-mode .rbt-single-widget.widget_archive ul li span,
 body.active-light-mode .rbt-single-widget.widget_categories ul li span,
-body.active-light-mode .rbt-single-widget.widget_meta ul li span,
+body.active-light-mode .rbt-single-widget.widget_MET5a ul li span,
 body.active-light-mode .rbt-single-widget.widget_pages ul li span,
 body.active-light-mode .rbt-single-widget.widget_nav_menu ul li span,
-body.active-light-mode .post-page-banner .rn-meta-list li a,
-body.active-light-mode .post-page-banner .rn-meta-list li,
+body.active-light-mode .post-page-banner .rn-MET5a-list li a,
+body.active-light-mode .post-page-banner .rn-MET5a-list li,
 body.active-light-mode .breadcrumb-inner ul.page-list li.rn-breadcrumb-item.active,
 body.active-light-mode .slider-style-1.bg-transparent .inner .subtitle,
 body.active-light-mode .slider-style-1.bg-transparent .inner .description,
@@ -15594,7 +15594,7 @@ body.active-light-mode .rbt-single-widget.widget_recent_comments ul li+li,
 body.active-light-mode .rbt-single-widget.widget_recent_entries ul li+li,
 body.active-light-mode .rbt-single-widget.widget_archive ul li+li,
 body.active-light-mode .rbt-single-widget.widget_categories ul li+li,
-body.active-light-mode .rbt-single-widget.widget_meta ul li+li,
+body.active-light-mode .rbt-single-widget.widget_MET5a ul li+li,
 body.active-light-mode .rbt-single-widget.widget_pages ul li+li,
 body.active-light-mode .rbt-single-widget.widget_nav_menu ul li+li,
 body.active-light-mode .tagcloud a,
@@ -15630,7 +15630,7 @@ body.active-light-mode .btn-read-more span::after {
 
 body.active-light-mode .breadcrumb-inner ul.page-list li a:hover,
 body.active-light-mode .rn-address .inner p a:hover,
-body.active-light-mode .post-page-banner .rn-meta-list li a:hover,
+body.active-light-mode .post-page-banner .rn-MET5a-list li a:hover,
 body.active-light-mode .header-top-bar .header-left p a:hover {
     color: var(--color-primary);
 }
@@ -16354,7 +16354,7 @@ table a:visited {
 
   }
   
-  /* When the textarea gets focus, do something */
+  /* When the textarea gets focus, do soMET5hing */
   .form-container textarea:focus {
     background-color: white;
     border: 1px solid red;

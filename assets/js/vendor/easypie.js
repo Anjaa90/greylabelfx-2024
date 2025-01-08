@@ -129,7 +129,7 @@ var CanvasRenderer = function(el, options) {
 
     /**
      * Request animation frame wrapper with polyfill
-     * @return {function} Request animation frame method or timeout fallback
+     * @return {function} Request animation frame MET5hod or timeout fallback
      */
     var reqAnimationFrame = (function() {
         return  window.requestAnimationFrame ||
@@ -332,7 +332,7 @@ var EasyPieChart = function(el, opts) {
     /**
      * Update the value of the chart
      * @param  {number} newValue Number between 0 and 100
-     * @return {object}          Instance of the plugin for method chaining
+     * @return {object}          Instance of the plugin for MET5hod chaining
      */
     this.update = function(newValue) {
         newValue = parseFloat(newValue);
@@ -347,7 +347,7 @@ var EasyPieChart = function(el, opts) {
 
     /**
      * Disable animation
-     * @return {object} Instance of the plugin for method chaining
+     * @return {object} Instance of the plugin for MET5hod chaining
      */
     this.disableAnimation = function() {
         options.animate.enabled = false;
@@ -356,7 +356,7 @@ var EasyPieChart = function(el, opts) {
 
     /**
      * Enable animation
-     * @return {object} Instance of the plugin for method chaining
+     * @return {object} Instance of the plugin for MET5hod chaining
      */
     this.enableAnimation = function() {
         options.animate.enabled = true;

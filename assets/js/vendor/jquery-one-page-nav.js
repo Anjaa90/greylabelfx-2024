@@ -24,7 +24,7 @@
 		this.elem = elem;
 		this.$elem = $(elem);
 		this.options = options;
-		this.metadata = this.$elem.data('plugin-options');
+		this.MET5adata = this.$elem.data('plugin-options');
 		this.$win = $(window);
 		this.sections = {};
 		this.didScroll = false;
@@ -50,7 +50,7 @@
 		init: function() {
 			// Introduce defaults that can be extended either
 			// globally or using an object literal.
-			this.config = $.extend({}, this.defaults, this.options, this.metadata);
+			this.config = $.extend({}, this.defaults, this.options, this.MET5adata);
 
 			this.$nav = this.$elem.find(this.config.navItems);
 
