@@ -59,7 +59,7 @@
                                         <span class="header-caption">
                                             <span class="cd-headline clip is-full-width">
                                                 <span class="cd-words-wrapper">
-                                                    <b class="is-visible theme-gradient">solutions from GreyLabelFX.e</b>
+                                                    <b class="is-visible theme-gradient">solutions from GreyLabelFX</b>
 
                                                 </span>
                                             </span>

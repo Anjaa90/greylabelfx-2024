@@ -201,7 +201,7 @@
                         <!-- Updated Pricing Card 2 -->
                         <div class="pricing-card">
                             <h3 class="plan-title">MET5-Branded</h3>
-                            <div class="price"><span class="currency">$</span>2750 <span class="period">PER MONTH</span></div>
+                            <div class="price"><span class="currency">$</span>2500 <span class="period">PER MONTH</span></div>
                             <ul class="features">
                                 <li style="color: #fff; font-size: 22px;">Setup Fee $0</li>
                                 <li>Groups <span>Up to 8</span></li>

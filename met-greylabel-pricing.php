@@ -152,7 +152,7 @@
                                             </div> -->
                                             <div class="pricing">
                                                 <div class="price-wrapper"><span class="currency"
-                                                        >$2750</span></div>
+                                                        >$2500</span></div>
                                                         <h4>Monthly Fee</h4>
                                             </div>
                                         </div>
