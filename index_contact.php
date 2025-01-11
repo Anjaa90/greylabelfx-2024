@@ -69,14 +69,14 @@ if (@mail($email_to, $email_subject, $email_message, $headers))
          ?>
     	<script language="javascript" type="text/javascript">
     		alert('Thank you for the message. We will contact you shortly.');
-    		window.location = 'index.html';
+    		window.location = 'index.php';
     	</script>
     <?php
     }
     else { ?>
     	<script language="javascript" type="text/javascript">
     		alert('Message failed. Please, send an email to customercare@prixim.co.uk');
-    		window.location = 'index.html';
+    		window.location = 'index.php';
     	</script>
     <?php
     }
