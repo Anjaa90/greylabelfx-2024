@@ -1,0 +1,244 @@
+<?php include ('includes/header.php');?>
+
+
+        <div class="container">
+            <div class="row row-189">
+                <div class="col-lg-12">
+                    <div class="head-style">
+                        <h2>Privacy Policy</h2>
+                        <p>At GreylabelFX, accessible from <a href="http://www.Greylabelfx.com"><span
+                                    style="color:#ff0000 ;">www.Greylabelfx.com</span></a>, one of our main priorities
+                            is the privacy of our visitors. This Privacy Policy document contains
+                            types of information that is collected and recorded by GreylabelFX and how we use it.
+                        </p>
+                        <p>If you have additional questions or require more information about our Privacy Policy, do not
+                            hesitate to contact us.</p>
+                        <p>This Privacy Policy applies only to our online activities and is valid for visitors to our
+                            website with regards to the information that they shared and/or collected in GreylabelFX.
+                            This policy is not applicable to any information
+                            collected offline or via channels other than this website.</p>
+                        <h2>Consent</h2>
+                        <p>By using our website, you hereby consent to our Privacy Policy and agree to its terms.
+                        </p>
+                        <h2>Information we collect</h2>
+                        <p>The personal information that you are asked to provide, and the reasons why you are asked to
+                            provide it, will be made clear to you at the point we ask you to provide your personal
+                            information.</p>
+                        <p>If you contact us directly, we may receive additional information about you such as your
+                            name, email address, phone number, the contents of the message and/or attachments you may
+                            send us, and any other information you may choose
+                            to provide</p>
+                        <p>When you register for an Account, we may ask for your contact information, including items
+                            such as name, company name, address, email address, and telephone number.
+                        </p>
+                        <h2>Log Files</h2>
+                        <p>GreylabelFX follows a standard procedure of using log files. These files log visitors when
+                            they visit websites. All hosting companies do this as part of hosting services' analytics.
+                            The information collected by log files include
+                            internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and
+                            time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to
+                            any information that is personally identifiable.
+                            The purpose of the information is for analyzing trends, administering the site, tracking
+                            users' movement on the website, and gathering demographic information</p>
+                        <h2>Third Party Privacy Policies</h2>
+                        <p>GreylabelFX Privacy Policy does not apply to other advertisers or websites. Thus, we are
+                            advising you to consult the respective Privacy Policies of these third-party ad servers for
+                            more detailed information. It may include their
+                            practices and instructions about how to opt-out of certain options.</p>
+                        <p>You can choose to disable cookies through your individual browser options. To know more
+                            detailed information about cookie management with specific web browsers, it can be found at
+                            the browsers' respective websites.</p>
+                        <h2>CCPA Privacy Rights (Do Not Sell My Personal Information)</h2>
+                        <h3 style="font-size:20px;">Under the CCPA, among other rights, California consumers have the
+                            right to:</h3>
+                        <ul style="list-style-type: none;">
+                            <li><i class="bi bi-check-circle-fill" style="color:#ff0000 ; padding-right: 15px;"></i>
+                                Request that a business that collects a consumer's personal data disclose the categories
+                                and specific pieces of personal data that a business
+                                has <span>collected about consumers.</span>
+                            </li>
+                            <li><i class="bi bi-check-circle-fill" style="color:#ff0000 ; padding-right: 15px;"></i>
+                                Request that a business delete any personal data about the consumer that a business has
+                                collected.</li>
+                            <li><i class="bi bi-check-circle-fill" style="color:#ff0000 ; padding-right: 15px;"></i>
+                                Request that a business that sells a consumer's personal data, not sell the consumer's
+                                personal data.</li>
+                            <li><i class="bi bi-check-circle-fill" style="color:#ff0000 ; padding-right: 15px;"></i> If
+                                you make a request, we have one month to respond to you. If you would like to exercise
+                                any of these rights, please contact us.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+<!-- 
+        <button class="open-button" onclick="openForm()">Contact Us</button>
+
+        <div class="chat-popup" id="myForm">
+
+            <form action="floating.php" method="post" class="form-container">
+                <div class="float-heading">
+                    <h2 style="color: red;
+                padding: 9px 0px;
+                width: 100%;
+                font-size: 17px;">Please fill out the form below and we will get back to you as soon as possible.</h2>
+                </div>
+
+                <div class="textfiled-wrapper">
+                    <input type="text" name="float-name" placeholder="*Name" class="input_filed">
+                    <input type="text" name="float-email" placeholder="*Email" class="input_filed">
+                    <textarea placeholder="*Message.." name="msg" required></textarea>
+
+                    <button type="submit" class="btn submit-btn" name="submit"><b>&#10148;</b> Submit</button>
+                    <button type="button" class=" cancel" onclick="closeForm()">&#x2716;</button>
+                </div>
+
+
+            </form>
+        </div> -->
+
+
+        <!-- Start Footer Area  -->
+            <?php include ('includes/footer.php');?>
+       <!-- End Footer Area  -->    
+    </main>
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K5VSCQZZ"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+        <script async src='https://d2mpatx37cqexb.cloudfront.net/delightchat-whatsapp-widget/embeds/embed.min.js'></script>
+        <script>
+          var wa_btnSetting = {"btnColor":"#16BE45","ctaText":"Message us","cornerRadius":40,"marginBottom":100,"marginLeft":20,"marginRight":20,"btnPosition":"left","whatsAppNumber":"447403655762","welcomeMessage":"Hello","zIndex":999999,"btnColorScheme":"light"};
+          window.onload = () => {
+            _waEmbed(wa_btnSetting);
+          };
+        </script>
+    <script type="text/javascript">
+        (function() {
+            var options = {
+                telegram: "greylabelfx", // Telegram bot username
+                call_to_action: "Message us", // Call to action
+                button_color: "#FF6550", // Color of button
+                position: "right", // Position may be 'right' or 'left'
+            };
+            var proto = document.location.protocol,
+                host = "getbutton.io",
+                url = proto + "//static." + host;
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = url + '/widget-send-button/js/init.js';
+            s.onload = function() {
+                WhWidgetSendButton.init(host, proto, options);
+            };
+            var x = document.getElementsByTagName('script')[0];
+            x.parentNode.insertBefore(s, x);
+        })();
+    </script>
+
+
+    
+    <script type="text/javascript">
+        var Tawk_API = Tawk_API || {},
+            Tawk_LoadStart = new Date();
+        (function () {
+            var s1 = document.createElement("script"),
+                s0 = document.getElementsByTagName("script")[0];
+            s1.async = true;
+            s1.src = 'https://embed.tawk.to/629a0fa4b0d10b6f3e758a42/1g4ksq7n7';
+            s1.charset = 'UTF-8';
+            s1.setAttribute('crossorigin', '*');
+            s0.parentNode.insertBefore(s1, s0);
+        })();
+    </script>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-230714452-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-230714452-1');
+    </script>
+    <script>
+        function openForm() {
+            document.getElementById("myForm").style.display = "block";
+        }
+
+        function closeForm() {
+            document.getElementById("myForm").style.display = "none";
+        }
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Privacy Policy",
+      "alternateName": "Privacy Policy",
+      "url": "https://greylabelfx.com/privacy-policy.php",
+      "logo": "https://greylabelfx.com/assets/images/logo/white-01.webp",
+      "sameAs": [
+        "https://www.facebook.com/Greylabelfx",
+        "https://twitter.com/GreylabelFX",
+        "https://www.instagram.com/greylabelfx/",
+        "https://www.linkedin.com/company/greylabelfx"
+      ]
+    }
+    </script>
+
+
+
+    <div class="rn-back-top">
+        <i class="feather-arrow-up"></i>
+    </div>
+
+    <!-- Modernizr -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/3.11.7/modernizr.min.js" defer></script>
+
+<!-- jQuery -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js" defer></script>
+
+<!-- Bootstrap -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js" defer></script>
+
+<!-- Popper.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.8/umd/popper.min.js" defer></script>
+
+<!-- Feather Icons -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/feather-icons/4.29.0/feather.min.js" defer></script>
+
+<!-- Slick Carousel -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" defer></script>
+
+<!-- Lightbox -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js" defer></script>
+
+<!-- Remaining scripts retained from assets folder -->
+<script src="assets/js/vendor/waypoint.min.js" defer></script>
+<script src="assets/js/vendor/wow.min.js" defer></script>
+<script src="assets/js/vendor/counterup.min.js" defer></script>
+<script src="assets/js/vendor/sal.min.js" defer></script>
+<script src="assets/js/vendor/masonry.js" defer></script>
+<script src="assets/js/vendor/imageloaded.js" defer></script>
+<script src="assets/js/vendor/magnify.min.js" defer></script>
+<script src="assets/js/vendor/easypie.js" defer></script>
+<script src="assets/js/vendor/text-type.js" defer></script>
+<script src="assets/js/vendor/jquery.style.swicher.js" defer></script>
+<script src="assets/js/vendor/js.cookie.js" defer></script>
+<script src="assets/js/vendor/jquery-one-page-nav.js" defer></script>
+
+<!-- Google reCAPTCHA -->
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+<!-- Main JS -->
+<script src="assets/js/main.js" defer></script>
+
+</body>
+
+
+
+</html>
