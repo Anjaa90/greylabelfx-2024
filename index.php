@@ -1,65 +1,5 @@
 <?php include ('includes/header.php');?>
-<body>
-    <div class="popup-mobile-menu">
-        <div class="inner">
-            <div class="header-top">
-                <div class="logo">
-                    <a href="index.php">
-                        <img class="logo-light" src="assets/images/logo/white-01.webp" alt="Corporate Logo">
-                        <img class="logo-dark" src="assets/images/logo/black-01.png" alt="Corporate Logo">
-                    </a>
-                </div>
-                <div class="close-menu">
-                    <button class="close-button">
-                        <i class="feather-x"></i>
-                    </button>
-                </div>
-            </div>
-            <ul class="mainmenu">
-                <li><a href="#">Home</a>
 
-                </li>
-                <li class="has-droupdown has-menu-child-item"><a href="about.php">About</a>
-
-                    <ul class="submenu">
-                        <li><a href="our-servers.php">Our Servers</a></li>
-                        <!-- <li><a href="team.html">Team</a></li> -->
-
-                    </ul>
-
-                </li>
-                <li class="has-droupdown has-menu-child-item"><a href="#">FX Solutions</a>
-
-                    <ul class="submenu">
-
-                        <li><a href="MET5-greylabel.php">MET5 Greylabel <span>( Hot )</span></a></li>
-                        <li><a href="broker-crm.php">BrokerCRM</a></li>
-                        <li><a href="psp.php">PSP</a></li>
-                    </ul>
-
-                </li>
-                <li><a href="pricing.php">Pricing</a></li>
-                <li class="has-droupdown has-menu-child-item"><a href="#">Digital</a>
-
-                    <ul class="submenu">
-                        <li><a href="broker-website.php">BrokerWebsite</a></li>
-                        <li><a href="forex-seo.php">Forex SEO</a></li>
-                        <li><a href="branding.php">Branding</a></li>
-                    </ul>
-
-                </li>
-                <li><a href="service.php">Corporate Services</a>
-
-                </li>
-                <li><a href="#">Blog</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <div>
-        <div class="rn-gradient-circle"></div>
-        <div class="rn-gradient-circle theme-pink"></div>
-    </div>
 
     <!-------------- POPUP-------------->
     <style>
@@ -314,10 +254,6 @@
                                 </p>
 
                             </div>
-
-
-
-
                         </div>
                     </div>
                 </div>
