@@ -82,7 +82,7 @@
                                     processing time. In contrast to the renowned auto PSPs, these PSPs provide smooth
                                     transactions in a trader's <span> <a
                                             href="https://greylabelfx.com/MET5-greylabel.php"
-                                            style="color: red;font-weight:bold">/MET5 accounts </a></span> .
+                                            style="color: red;font-weight:bold">MET5 accounts </a></span> .
 
 
                                 </p>

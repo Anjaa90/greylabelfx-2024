@@ -286,7 +286,7 @@
             </div>
         </div>
 
-        <div class="section " style="background-color: rgb(20, 20, 20);box-shadow: rgb(24, 24, 24) 0px 4px 12px;">
+        <!-- <div class="section " style="background-color: rgb(20, 20, 20);box-shadow: rgb(24, 24, 24) 0px 4px 12px;">
             <div class="container">
                 <div class="row">
                     <div class="col-12">
@@ -301,7 +301,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
         <div>
             <div class="rn-gradient-circle"></div>

@@ -1,76 +1,151 @@
 <?php include ('includes/header.php');?>
 
+<!-- <div class="slider-area slider-style-1 variation-default height-850 bg_image bg_image--12" data-black-overlay="7">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="inner pt--80 text-center" data-sal="slide-up" data-sal-duration="400" data-sal-delay="150">
 
-        <div class="container">
-            <div class="row row-189">
-                <div class="col-lg-12">
-                    <div class="head-style">
-                        <h2>Privacy Policy</h2>
-                        <p>At GreylabelFX, accessible from <a href="http://www.Greylabelfx.com"><span
-                                    style="color:#ff0000 ;">www.Greylabelfx.com</span></a>, one of our main priorities
-                            is the privacy of our visitors. This Privacy Policy document contains
-                            types of information that is collected and recorded by GreylabelFX and how we use it.
-                        </p>
-                        <p>If you have additional questions or require more information about our Privacy Policy, do not
-                            hesitate to contact us.</p>
-                        <p>This Privacy Policy applies only to our online activities and is valid for visitors to our
-                            website with regards to the information that they shared and/or collected in GreylabelFX.
-                            This policy is not applicable to any information
-                            collected offline or via channels other than this website.</p>
-                        <h2>Consent</h2>
-                        <p>By using our website, you hereby consent to our Privacy Policy and agree to its terms.
-                        </p>
-                        <h2>Information we collect</h2>
-                        <p>The personal information that you are asked to provide, and the reasons why you are asked to
-                            provide it, will be made clear to you at the point we ask you to provide your personal
-                            information.</p>
-                        <p>If you contact us directly, we may receive additional information about you such as your
-                            name, email address, phone number, the contents of the message and/or attachments you may
-                            send us, and any other information you may choose
-                            to provide</p>
-                        <p>When you register for an Account, we may ask for your contact information, including items
-                            such as name, company name, address, email address, and telephone number.
-                        </p>
-                        <h2>Log Files</h2>
-                        <p>GreylabelFX follows a standard procedure of using log files. These files log visitors when
-                            they visit websites. All hosting companies do this as part of hosting services' analytics.
-                            The information collected by log files include
-                            internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and
-                            time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to
-                            any information that is personally identifiable.
-                            The purpose of the information is for analyzing trends, administering the site, tracking
-                            users' movement on the website, and gathering demographic information</p>
-                        <h2>Third Party Privacy Policies</h2>
-                        <p>GreylabelFX Privacy Policy does not apply to other advertisers or websites. Thus, we are
-                            advising you to consult the respective Privacy Policies of these third-party ad servers for
-                            more detailed information. It may include their
-                            practices and instructions about how to opt-out of certain options.</p>
-                        <p>You can choose to disable cookies through your individual browser options. To know more
-                            detailed information about cookie management with specific web browsers, it can be found at
-                            the browsers' respective websites.</p>
-                        <h2>CCPA Privacy Rights (Do Not Sell My Personal Information)</h2>
-                        <h3 style="font-size:20px;">Under the CCPA, among other rights, California consumers have the
-                            right to:</h3>
-                        <ul style="list-style-type: none;">
-                            <li><i class="bi bi-check-circle-fill" style="color:#ff0000 ; padding-right: 15px;"></i>
-                                Request that a business that collects a consumer's personal data disclose the categories
-                                and specific pieces of personal data that a business
-                                has <span>collected about consumers.</span>
-                            </li>
-                            <li><i class="bi bi-check-circle-fill" style="color:#ff0000 ; padding-right: 15px;"></i>
-                                Request that a business delete any personal data about the consumer that a business has
-                                collected.</li>
-                            <li><i class="bi bi-check-circle-fill" style="color:#ff0000 ; padding-right: 15px;"></i>
-                                Request that a business that sells a consumer's personal data, not sell the consumer's
-                                personal data.</li>
-                            <li><i class="bi bi-check-circle-fill" style="color:#ff0000 ; padding-right: 15px;"></i> If
-                                you make a request, we have one month to respond to you. If you would like to exercise
-                                any of these rights, please contact us.</li>
-                        </ul>
-                    </div>
+                    <h1 class="title display-one">Privacy Policy</h1>
                 </div>
             </div>
         </div>
+    </div>
+</div> -->
+<main>
+    <div class="privacy-policy-wrapper" style="padding-top:30px;">
+<div class="container privacy-policy">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="head-style">
+                <h1>Privacy Policy</h1>
+                <p>At GreylabelFX, accessible from <a href="http://www.Greylabelfx.com" class="highlighted-link">www.Greylabelfx.com</a>, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by GreylabelFX and how we use it.</p>
+                <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
+                <p>This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collected in GreylabelFX. This policy is not applicable to any information collected offline or via channels other than this website.</p>
+                <h2>Consent</h2>
+                <p>By using our website, you hereby consent to our Privacy Policy and agree to its terms.</p>
+                <h2>Information we collect</h2>
+                <p>The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.</p>
+                <p>If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.</p>
+                <p>When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.</p>
+                <h2>Log Files</h2>
+                <p>GreylabelFX follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this as part of hosting services' analytics. The information collected by log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
+                <h2>Third Party Privacy Policies</h2>
+                <p>GreylabelFX Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.</p>
+                <p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.</p>
+                <h2>CCPA Privacy Rights (Do Not Sell My Personal Information)</h2>
+                <h4 class="sub-heading">Under the CCPA, among other rights, California consumers have the right to:</h4>
+                <ul class="ccpa-rights">
+                    <li><i class="bi bi-check-circle-fill"></i> Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.</li>
+                    <li><i class="bi bi-check-circle-fill"></i> Request that a business delete any personal data about the consumer that a business has collected.</li>
+                    <li><i class="bi bi-check-circle-fill"></i> Request that a business that sells a consumer's personal data, not sell the consumer's personal data.</li>
+                    <li><i class="bi bi-check-circle-fill"></i> If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+</main>
+<style>
+.privacy-policy-wrapper {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center;    /* Center vertically */
+    min-height: 100vh;      /* Full viewport height */
+    padding: 20px;          /* Optional padding for spacing */
+   
+}
+
+/* General container styling */
+.privacy-policy {
+    background-color: rgb(73, 71, 71);
+    padding: 40px 30px;
+
+    border-radius: 20px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+     /* Set a max width for responsiveness */
+    width: 100%;      /* Ensure container is responsive */
+    max-width: 900px;
+    
+}
+
+/* Header styles */
+.privacy-policy h1 {
+    font-size: 28px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+/* Sub-heading styles */
+.privacy-policy h2 {
+    font-size: 25px;
+    color: #fff;
+    margin-top: 30px;
+  
+    padding-bottom: 10px;
+}
+
+.privacy-policy h3.sub-heading { 
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+/* Text and links */
+.privacy-policy p {
+    color:rgb(182 182 182);
+    line-height: 1.8;
+    margin-bottom: 15px;
+}
+
+/* .privacy-policy a.highlighted-link {
+    color: #ff0000;
+    text-decoration: underline;
+} */
+
+.privacy-policy a.highlighted-link:hover {
+    text-decoration: none;
+    color: #ff0000;
+}
+
+/* List styling */
+.privacy-policy ul.ccpa-rights {
+    padding-left: 0;
+    list-style: none;
+}
+
+.privacy-policy ul.ccpa-rights li {
+    margin-bottom: 10px;
+    
+    color: rgb(182 182 182);
+    display: flex;
+    align-items: center;
+}
+
+/* .privacy-policy ul.ccpa-rights i {
+    color: #ff0000;
+    margin-right: 10px;
+} */
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .privacy-policy {
+        padding: 20px;
+    }
+
+    .privacy-policy h1 {
+        font-size: 2rem;
+    }
+
+    .privacy-policy h2 {
+        font-size: 1.5rem;
+    }
+}
+
+
+</style>
 
 <!-- 
         <button class="open-button" onclick="openForm()">Contact Us</button>

@@ -1,6 +1,6 @@
 <?php include ('includes/header.php');?>
 
-        <div class="container">
+        <div class="container-privacy-policy">
             <div class="row row--189">
                 <div class="col-lg-12">
                     <div class="head-style">
@@ -107,10 +107,7 @@
                         </p>
 
                         <p>
-                        <h3>These organizations may link to our home page so long as the link:</h3><br>(a) is not in any
-                        way deceptive;<br> (b) does not falsely imply sponsorship, endorsement or approval of the
-                        linking party and its products or services;<br> (c) fits within the context of the linking
-                        party’s site.</p>
+                        
                         <p>If you are one of the organizations listed in paragraph 2 above and are interested in linking
                             to our website, you must inform us by sending an e-mail to GreyLabelFX. Please include your
                             name, your organization name, contact information as well as the URL of your site, a list of
@@ -134,7 +131,7 @@
                             infringes, otherwise violates, or advocates the infringement or other violation of, any
                             third party rights.</p>
                         <h2>Your Privacy</h2>
-                        <h3 style="font-size:30px;">Please read Privacy Policy</h3>
+                        <h3 style="font-size:30px;"><a href="privacy-policy.php" style="color:hover=#ff0000;">Please read Privacy Policy</a></h3>
                         <h4 style="    font-size: 27px;
                             font-weight: normal;">Reservation of Rights</h4>
                         <p>We reserve the right to request that you remove all links or any particular link to our
@@ -199,6 +196,142 @@
 
             </form>
         </div> -->
+        <style>
+            /* General Container Styling */
+.container-privacy-policy {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+
+    color: #333;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Head Section Styling */
+.head-style h1 {
+    font-size: 36px;
+
+   
+
+    text-align: center;
+}
+
+.head-style h2 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+  
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.head-style p {
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+/* Subheadings */
+.head-style h3 {
+    font-size: 20px;
+    font-weight: bold;
+    
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* Paragraph Styling */
+.head-style p,
+.head-style ul,
+.head-style ol {
+    margin-bottom: 15px;
+    padding-left: 15px;
+}
+
+/* List Styling */
+.head-style ul, .head-style ol {
+    list-style: disc;
+    margin-left: 20px;
+}
+
+.head-style ul li, .head-style ol li {
+    margin-bottom: 10px;
+}
+
+/* Hyperlink Styling */
+.head-style a {
+  
+    text-decoration: none;
+}
+
+.head-style a:hover {
+    text-decoration: underline;
+}
+
+/* Highlighted Content */
+.head-style h4 {
+    font-size: 18px;
+   
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: normal;
+}
+
+/* Table Styling (if required) */
+.head-style table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+.head-style table th, .head-style table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.head-style table th {
+    color: white;
+}
+
+/* Button Styling (if required) */
+.head-style .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #fff;
+  
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .head-style h1 {
+        font-size: 28px;
+    }
+
+    .head-style h2 {
+        font-size: 16px;
+    }
+
+    .head-style h3 {
+        font-size: 18px;
+    }
+
+    .container {
+        padding: 15px;
+    }
+}
+
+        </style>
 
         <!-- Start Footer Area  -->
            <?php include ('includes/footer.php');?>
