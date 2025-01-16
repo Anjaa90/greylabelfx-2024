@@ -563,7 +563,7 @@
       "@type": "Organization",
       "name": "FX Greylabel Server",
       "alternateName": "FX Greylabel Server",
-      "url": "https://greylabelfx.com/FX-greylabel.php",
+      "url": "https://greylabelfx.com/MET5-greylabel.php",
       "logo": "https://greylabelfx.com/assets/images/logo/white-01.webp",
       "sameAs": [
         "https://www.facebook.com/Greylabelfx",

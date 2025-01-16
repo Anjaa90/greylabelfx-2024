@@ -73,7 +73,7 @@
 
                                 <p>
                                     <i class="feather-mail"></i>
-                                    <span><a href="sales@greylabelfx.com">sales@greylabelfx.com</a></span>
+                                    <span><a href="mailto:sales@greylabelfx.com">sales@greylabelfx.com</a></span>
                                 </p>
                                 <p>
                                     <i class="feather-phone"></i>
