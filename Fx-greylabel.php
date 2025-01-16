@@ -171,7 +171,7 @@
                                 </h2>
                                 <p class="description b1 color-gray mb--0">A simple solution for the onboarding process
                                     and managing a
-                                    variety of URs and affiliates</p>
+                                    variety of URs and affiliates</p><br>
                             </div>
                         </div>
                     </div>
@@ -218,7 +218,7 @@
                             <p class="description b1 color-gray mb--0">PAMM account managers can manage multiple
                                 accounts on the same platform; this simplifies their
                                 lives and makes them more efficient.
-                            </p>
+                            </p><br>
                         </div>
                     </div>
                 </div>
@@ -257,7 +257,7 @@
                                 traders to take slippage away from them,
                                 and Forex brokers can profit from slippage.
 
-                            </p>
+                            </p><br>
                         </div>
                     </div>
                 </div>
