@@ -274,7 +274,7 @@
             </div>
         </div>
         <br><br>
-
+        <div class="container">
         <div class="rwt-split-area">
             <div class="wrapper">
                 <div class="rn-splite-style">
@@ -307,6 +307,8 @@
                 </div>
             </div>
         </div>
+        </div>
+        
         <br><br>
 
         <!-- <div class="container" style="padding-top:110px ;">
