@@ -37,7 +37,7 @@
                                     a global provider of forex technology. Our company offers you the best forex brokering
                                     solutions in the world for your forex company. Become forex broker with GreylabelFX.
                                     We offer <a href="#"
-                                        class="font-blod-color-title"> Grey Label Platform</a> and MET5 Grey Label
+                                        class="font-blod-color-title"> Grey Label Platform</a> and FX Grey Label
                                     Platform at reasonable price.</p>
                                 <p>In the past, we have assisted many people in starting their own forex brokerage
                                     companies.
@@ -49,8 +49,8 @@
                                     advanced forex brokerage solutions in the world, we help you with everything you
                                     need for your forex business.
                                     We offer complete solutions for forex brokerage including  Grey Label Platform
-                                    and <a href="https://greylabelfx.com/MET5-greylabel.php"
-                                        class="font-blod-color-title">MET5 Grey Label Platform</a> .</p>
+                                    and <a href="https://greylabelfx.com/FX-greylabel.php"
+                                        class="font-blod-color-title">FX Grey Label Platform</a> .</p>
 
                             </div>
                         </div>
@@ -96,7 +96,7 @@
                                                 <h2 class="title">VISION</h2>
                                                 <p class="description">Our vision is to improve the forex market by
                                                     creating highly advanced, easy-to-use,
-                                                    and fully-branded Grey label  and MET5 brokerage services.</p>
+                                                    and fully-branded Grey label  and FX Greylabel Server brokerage services.</p>
                                             </div>
                                         </a>
                                     </li>

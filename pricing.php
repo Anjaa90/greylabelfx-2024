@@ -7,14 +7,14 @@
             <div class="pricing-section">
                 <div class="container">
                     <div class="section-title text-center">
-                        <h2>MET5 GreyLabel Forex Services</h2>
-                        <p>Our MET5 GreyLabel Forex Broker Services Comprehensive Range of Offerings</p>
+                        <h2>FX GreyLabel Server Forex Services</h2>
+                        <p>Our FX GreyLabel Server Forex Broker Services Comprehensive Range of Offerings</p>
                     </div>
             
                     <div class="pricing-cards">
                         <!-- Updated Pricing Card 1 -->
                         <div class="pricing-card">
-                            <h3 class="plan-title">MET5-Generic</h3>
+                            <h3 class="plan-title">FX Greylabel Server-Generic</h3>
                             <div class="price"><span class="currency">$</span>500 PER MONTH</span>
                                 </div>
                                 <p style="color: #fff; font-size: 22px;">Setup Fee $0</p>
@@ -32,7 +32,7 @@
             
                         <!-- Updated Pricing Card 2 -->
                         <div class="pricing-card">
-                            <h3 class="plan-title">MET5-Branded</h3>
+                            <h3 class="plan-title">FX Greylabel Server-Branded</h3>
                             <div class="price"><span class="currency">$</span>2500 PER MONTH</span></div>
                             <p style="color: #fff; font-size: 22px;">Setup Fee $0</p>
                             <ul class="features">

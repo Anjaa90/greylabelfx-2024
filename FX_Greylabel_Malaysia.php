@@ -7,7 +7,7 @@
                         <div class="inner pt--80 text-center" data-sal="slide-up" data-sal-duration="400"
                             data-sal-delay="150">
 
-                            <h1 class="title display-one">MET5 GreyLabel in China</h1>
+                            <h1 class="title display-one">FX Greylabel Server in Malaysia</h1>
                         </div>
                     </div>
                 </div>
@@ -28,7 +28,7 @@
                             <div class="video-popup icon-center">
                                 <div class="overlay-content">
                                     <div class="thumbnail"><img class="radius-small"
-                                            src="assets\images\Greylabelfx _china Flag_11_12_2024 .png" alt="Corporate Image"></div>
+                                            src="assets\images\server\Greylabelfx_Malaysia Flag 11_12_2024.png" alt="Corporate Image"></div>
 
                                 </div>
                             </div>
@@ -40,11 +40,11 @@
                             <div class="inner">
 
                                 <h2 class="title">
-                                    MET5 Grey Label Solutions in China by GreyLabelFX
+                                    FX Grey Label Solutions in Malaysia by GreyLabelFX
 
                                     </strong>
                                 </h1>
-                                <p>GreyLabelFX offers tailored MET5 Grey Label solutions in China, enabling brokers to launch trading platforms with advanced features without the need for a full MET5 license.  MET5 is a global multi-asset platform supporting forex, stocks, commodities, and futures.
+                                <p>GreyLabelFX offers FX Grey Label solutions in Malaysia, allowing brokers to establish advanced trading platforms with minimal costs.  FX Greylabel Server is a renowned multi-asset platform, ideal for brokers seeking powerful analytics and robust trading features in Malaysia’s dynamic market.
 
                                 </p>
 
@@ -62,7 +62,7 @@
 
 
                     <h2 class="heading-titile-normal text-center">
-                        Why Choose MET5 Grey Label in China?
+                        Why Choose FX Grey Label in Malaysia?
 
                         </strong>
                     </h2>
@@ -75,7 +75,7 @@
                             <div class="content">
                                 <h3 class="title w-600">Cost-Effective
                                 </h3>
-                                <p class="description b1 color-gray mb--0">Avoid high license costs while offering professional-grade services.
+                                <p class="description b1 color-gray mb--0">Utilize FX Greylabel Server without a full license, reducing initial costs.
                                 </p>
                             </div>
                         </div>
@@ -91,7 +91,8 @@
                             <div class="content">
                                 <h3 class="title w-600">Custom Branding
                                 </h3>
-                                <p class="description b1 color-gray mb--0"> Personalize MET5 to reflect your brand identity.</p>
+                                <p class="description b1 color-gray mb--0"> Personalize the platform with your logo and design to suit the Malaysian market.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -104,9 +105,10 @@
                                 <img loading="lazy" src="assets/images/services/trade-copier.png" alt="trade copier image" style="height:50px;">
                             </div>
                             <div class="content">
-                                <h3 class="title w-600">Advanced Features
+                                <h3 class="title w-600">Advanced Trading Tools
                                 </h3>
-                                <p class="description b1 color-gray mb--0">Access algorithmic trading, market depth, copy trading, and more.
+                                <p class="description b1 color-gray mb--0">Offer features like algorithmic trading, market depth, and technical analysis.
+
 
                                 </p>
                             </div>
@@ -127,7 +129,7 @@
                         <div class="content">
                             <h3 class="title w-600">Regulatory Support
                             </h3>
-                            <p class="description b1 color-gray mb--0">Expert guidance on China’s complex financial regulations.
+                            <p class="description b1 color-gray mb--0">Navigate Malaysia’s regulations with guidance on compliance from the Securities Commission Malaysia (SC).
 
 
                             </p>
@@ -143,9 +145,9 @@
                             <img loading="lazy" src="assets/images/services/virtual.png" alt="virtual events" style="height:50px;">
                         </div>
                         <div class="content">
-                            <h3 class="title w-600" >Scalable Solutions
+                            <h3 class="title w-600" >Scalable Growth
                             </h3>
-                            <p class="description b1 color-gray mb--0"> Easily expand your platform as your business grows.
+                            <p class="description b1 color-gray mb--0"> Expand your platform to new markets and asset classes as your business grows.
 
                             </p>
                         </div>
@@ -161,14 +163,16 @@
                         <div class="content">
                             <h3 class="title w-600" >Reliable Support
                             </h3>
-                            <p class="description b1 color-gray mb--0"> 24/7 technical support, hosting, and maintenance.
+                            <p class="description b1 color-gray mb--0"> Access 24/7 server hosting, maintenance, and technical assistance.
+
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
             <br>
-            <p>China's growing trading market offers significant opportunities. GreyLabelFX provides hassle-free setup, technology integration, and regulatory support to help brokers succeed in this dynamic market.
+            <p>Malaysia's growing interest in online forex and CFD trading makes it a prime market for brokers. GreyLabelFX offers comprehensive support, from platform customization to regulatory compliance, ensuring your business thrives in this competitive environment.
+
 
             </p>
         </div>
@@ -181,14 +185,14 @@
             <div class="pricing-section">
                 <div class="container">
                     <div class="section-title text-center">
-                        <h2>MET5 GreyLabel Forex Services</h2>
-                        <p>Our MET5 GreyLabel Forex Broker Services Comprehensive Range of Offerings</p>
+                        <h2>FX Greylabel Server Forex Services</h2>
+                        <p>Our FX Greylabel Server Forex Broker Services Comprehensive Range of Offerings</p>
                     </div>
             
                     <div class="pricing-cards">
                         <!-- Updated Pricing Card 1 -->
                         <div class="pricing-card">
-                            <h3 class="plan-title">MET5-Generic</h3>
+                            <h3 class="plan-title">FX Greylabel Server-Generic</h3>
                             <div class="price"><span class="currency">$</span>500 <span class="period">PER MONTH</span></div>
                             <ul class="features">
                                 <li style="color: #fff; font-size: 22px;">Setup Fee $0</li>
@@ -204,7 +208,7 @@
             
                         <!-- Updated Pricing Card 2 -->
                         <div class="pricing-card">
-                            <h3 class="plan-title">MET5-Branded</h3>
+                            <h3 class="plan-title">FX Greylabel Server-Branded</h3>
                             <div class="price"><span class="currency">$</span>2500 <span class="period">PER MONTH</span></div>
                             <ul class="features">
                                 <li style="color: #fff; font-size: 22px;">Setup Fee $0</li>

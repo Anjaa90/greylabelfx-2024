@@ -81,8 +81,8 @@
                                     that require approval by the broker) that will take approximately 12-24 hour
                                     processing time. In contrast to the renowned auto PSPs, these PSPs provide smooth
                                     transactions in a trader's <span> <a
-                                            href="https://greylabelfx.com/MET5-greylabel.php"
-                                            style="color: red;font-weight:bold">MET5 accounts </a></span> .
+                                            href="https://greylabelfx.com/FX-greylabel.php"
+                                            style="color: red;font-weight:bold">FX Greylabel accounts </a></span> .
 
 
                                 </p>

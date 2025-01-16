@@ -7,7 +7,7 @@
                         <div class="inner pt--80 text-center" data-sal="slide-up" data-sal-duration="400"
                             data-sal-delay="150">
 
-                            <h1 class="title display-one">MET5 GreyLabel in Africa</h1>
+                            <h1 class="title display-one">FX Greylabel Server in Africa</h1>
                         </div>
                     </div>
                 </div>
@@ -40,11 +40,11 @@
                             <div class="inner">
 
                                 <h2 class="title">
-                                    MET5 Grey Label Solutions in Africa by GreyLabelFX
+                                    FX Grey Label Solutions in Africa by GreyLabelFX
 
                                     </strong>
                                 </h1>
-                                <p>GreyLabelFX offers MET5 Grey Label solutions across Africa, allowing brokers to launch trading platforms with advanced features and minimal upfront costs.  MET5 is a renowned multi-asset platform known for its scalability, powerful analytics, and advanced trading tools.
+                                <p>GreyLabelFX offers FX Grey Label solutions across Africa, allowing brokers to launch trading platforms with advanced features and minimal upfront costs.  FX Greylabel Server is a renowned multi-asset platform known for its scalability, powerful analytics, and advanced trading tools.
                                 </p>
 
                                 
@@ -61,7 +61,7 @@
 
 
                     <h2 class="heading-titile-normal text-center">
-                        Why Choose MET5 Grey Label in Africa?
+                        Why Choose FX Grey Label in Africa?
 
                         </strong>
                     </h2>
@@ -74,7 +74,7 @@
                             <div class="content">
                                 <h3 class="title w-600">Cost-Effective
                                 </h3>
-                                <p class="description b1 color-gray mb--0">Access MET5’s premium features without the high cost of a direct license.
+                                <p class="description b1 color-gray mb--0">Access FX Greylabel Server premium features without the high cost of a direct license.
 
                                 </p>
                             </div>
@@ -184,14 +184,14 @@
             <div class="pricing-section">
                 <div class="container">
                     <div class="section-title text-center">
-                        <h2>MET5 GreyLabel Forex Services</h2>
-                        <p>Our MET5 GreyLabel Forex Broker Services Comprehensive Range of Offerings</p>
+                        <h2>FX Greylabel Server Forex Services</h2>
+                        <p>Our FX Greylabel Server Forex Broker Services Comprehensive Range of Offerings</p>
                     </div>
             
                     <div class="pricing-cards">
                         <!-- Updated Pricing Card 1 -->
                         <div class="pricing-card">
-                            <h3 class="plan-title">MET5-Generic</h3>
+                            <h3 class="plan-title">FX Greylabel Server-Generic</h3>
                             <div class="price"><span class="currency">$</span>500 <span class="period">PER MONTH</span></div>
                             <ul class="features">
                                 <li style="color: #fff; font-size: 22px;">Setup Fee $0</li>
@@ -207,7 +207,7 @@
             
                         <!-- Updated Pricing Card 2 -->
                         <div class="pricing-card">
-                            <h3 class="plan-title">MET5-Branded</h3>
+                            <h3 class="plan-title">FX Greylabel Server-Branded</h3>
                             <div class="price"><span class="currency">$</span>2500 <span class="period">PER MONTH</span></div>
                             <ul class="features">
                                 <li style="color: #fff; font-size: 22px;">Setup Fee $0</li>

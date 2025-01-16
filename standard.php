@@ -103,7 +103,7 @@
                                 <div class="rn-pricing style-2 active">
                                     <div class="pricing-table-inner">
                                         <div class="pricing-header">
-                                            <h3 class="title" style="font-size:25px; ">Standard MET5</h3><br>
+                                            <h3 class="title" style="font-size:25px; ">Standard FX Greylabel Server</h3><br>
                                             <div class="pricing">
                                                 <div class="price-wrapper"><span class="currency" style="font-size: 18px; font-weight:500;">Monthly Fee:$1000</span></div>
                                                 <div class="price-wrapper"><span class="currency" style="font-size: 18px; font-weight:500;">One Time Setup Fee:$1000</span></div>

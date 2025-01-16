@@ -31,7 +31,7 @@
                             hubs, London and New York.
                         </p><br>
                         <p>These locations provide our clients with top-quality ECN market liquidity, which flows
-                            directly to their MET5 accounts. After careful research, we chose London and New York
+                            directly to their FX Greylabel accounts. After careful research, we chose London and New York
                             because they offer the best conditions for global trading.
                         </p><br>
                         <p>We continuously improve our servers, data centers, and hardware to ensure fast and stable
@@ -96,9 +96,9 @@
                         <p>
                             At GreylabelFX, we are always integrating new technologies to better serve our clients.
                         </p>
-                        <p>The Equinix MET5 Cross is a next-generation price aggregator that connects the dark liquidity
-                            pool directly to your MET5 platform, ensuring access to the best prices available.
-                            Additionally,the Equinix MET5 Bridge is the only advanced solution capable of handling large
+                        <p>The Equinix FX Greylabel Server Cross is a next-generation price aggregator that connects the dark liquidity
+                            pool directly to your FX Greylabel platform, ensuring access to the best prices available.
+                            Additionally,the Equinix FX Greylabel Server Bridge is the only advanced solution capable of handling large
                             orders at lightning-fast speeds, providing unmatched efficiency in the market.
                         </p>
                         <p>With these cutting-edge tools, GreylabelFX ensures that our clients experience superior,
@@ -158,7 +158,7 @@
                         <p>GreylabelFX leverages Equinix fibre optic infrastructure designed for 99.99% uptime, ensuring
                             reliable performance for mission-critical workloads.
                         </p>
-                        <p>With the power of AWS processing, the MET5 Bridge operates at lightning-fast speeds, giving
+                        <p>With the power of AWS processing, the FX Greylabel Server Bridge operates at lightning-fast speeds, giving
                             clients faster access to global market prices. This advanced technology enables smoother and
                             more efficient trading, helping you stay ahead in the market.</p>
                     </div>

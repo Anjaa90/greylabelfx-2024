@@ -150,9 +150,8 @@
                                         <ul class="submenu">
                                             <ul class="submenu">
 
-                                                <li><a href="MET5-greylabel.php">MET5 Greylabel <span
-                                                            style="color: red; font-size:16px; font-weight: 600; ">( Hot
-                                                            )</span></a></li>
+                                                <li><a href="FX-greylabel.php">FX Greylabel Server <span
+                                                            style="color: red; font-size:16px; font-weight: 600; ">(Hot)</span></a></li>
                                                 <li><a href="broker-crm.php">BrokerCRM</a></li>
                                                 <li><a href="psp.php">PSP</a></li>
                                             </ul>
@@ -179,17 +178,17 @@
                                     <li class="has-droupdown has-menu-child-item"><a href="#">Servers</a>
                                         <ul class="submenu">
                                             <ul class="submenu">
-                                                <li><a href="MET5_Greylabel_Turkey.php">Turkey</a></li>
-                                                <li><a href="MET5_Greylabel_China.php">China</a></li>
-                                                <li><a href="MET5_Greylabel_UAE.php">UAE</a></li>
-                                                <li><a href="MET5_Greylabel_Malaysia.php">Malaysia</a>
+                                                <li><a href="FX_Greylabel_Turkey.php">Turkey</a></li>
+                                                <li><a href="FX_Greylabel_China.php">China</a></li>
+                                                <li><a href="FX_Greylabel_UAE.php">UAE</a></li>
+                                                <li><a href="FX_Greylabel_Malaysia.php">Malaysia</a>
                                                 </li>
-                                                <li><a href="MET5_Greylabel_Singapore.php">Singapore</a>
+                                                <li><a href="FX_Greylabel_Singapore.php">Singapore</a>
                                                 </li>
-                                                <li><a href="MET5_Greylabel_Africa.php">Africa</a></li>
-                                                <li><a href="MET5_Greylabel_Albania.php">Albania</a>
+                                                <li><a href="FX_Greylabel_Africa.php">Africa</a></li>
+                                                <li><a href="FX_Greylabel_Albania.php">Albania</a>
                                                 </li>
-                                                <li><a href="MET5_Greylabel_Algeria.php">Algeria</a>
+                                                <li><a href="FX_Greylabel_Algeria.php">Algeria</a>
                                                 </li>
                                             </ul>
                                         </ul>
@@ -246,7 +245,7 @@
 
                         <ul class="submenu">
                             
-                            <li><a href="MET5-greylabel.php">MET5 Greylabel <span
+                            <li><a href="FX-greylabel.php">FX Greylabel Server<span
                                         >( Hot )</span></a></li>
                             <li><a href="broker-crm.php">BrokerCRM</a></li>
                             <li><a href="psp.php">PSP</a></li>

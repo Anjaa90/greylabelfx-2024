@@ -7,7 +7,7 @@
                         <div class="inner pt--80 text-center" data-sal="slide-up" data-sal-duration="400"
                             data-sal-delay="150">
 
-                            <h1 class="title display-one">MET5 GreyLabel in Turkey</h1>
+                            <h1 class="title display-one">FX Greylabel Server in UAE</h1>
                         </div>
                     </div>
                 </div>
@@ -28,7 +28,7 @@
                             <div class="video-popup icon-center">
                                 <div class="overlay-content">
                                     <div class="thumbnail"><img class="radius-small"
-                                            src="assets\images\server\Greylabelfx_Turkey flag 11_12_2024 .png" alt="Corporate Image"></div>
+                                            src="assets\images\server\Greylabelfx_UAE flag _11_12_2024.png" alt="Corporate Image"></div>
 
                                 </div>
                             </div>
@@ -40,10 +40,12 @@
                             <div class="inner">
 
                                 <h2 class="title">
-                                    MET5 Grey Label Solutions in Turkey by GreyLabelFX
+                                    FX Grey Label Services in UAE by GreyLabelFX
+
                                     </strong>
                                 </h1>
-                                <p>GreyLabelFX offers MET5 Grey Label solutions in Turkey, allowing brokers to launch and operate trading platforms without the need for a full MET5 license. This cost-effective solution provides access to MET5’s advanced features, such as algorithmic trading, market depth, and detailed charting tools, under the broker’s brand.
+                                <p>GreyLabelFX provides cost-effective FX Grey Label solutions in the UAE, enabling brokers to quickly launch and manage trading platforms without the complexity of a full FX Greylabel Server license. Ideal for brokers entering the competitive forex and CFD market in the UAE, this solution minimizes setup costs and accelerates time to market.
+
                                 </p>
 
                                 
@@ -60,7 +62,7 @@
 
 
                     <h2 class="heading-titile-normal text-center">
-                        Why Choose MET5 Grey Label in Turkey?
+                        Why Choose FX Grey Label in the UAE?
                         </strong>
                     </h2>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700">
@@ -72,7 +74,8 @@
                             <div class="content">
                                 <h3 class="title w-600">Cost-Efficiency
                                 </h3>
-                                <p class="description b1 color-gray mb--0">Avoid expensive direct licenses, reducing initial costs.
+                                <p class="description b1 color-gray mb--0">Save on licensing fees with an affordable setup.
+
                                 </p>
                             </div>
                         </div>
@@ -88,7 +91,8 @@
                             <div class="content">
                                 <h3 class="title w-600">Custom Branding
                                 </h3>
-                                <p class="description b1 color-gray mb--0"> Personalize the platform with your brand and features.</p>
+                                <p class="description b1 color-gray mb--0"> Personalize your platform with tailored features and branding.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -103,7 +107,8 @@
                             <div class="content">
                                 <h3 class="title w-600">Advanced Tools
                                 </h3>
-                                <p class="description b1 color-gray mb--0">Benefit from MET5 multi-asset trading and analysis tools.
+                                <p class="description b1 color-gray mb--0">Access FX Greylabel Server tools like multi-asset trading, algorithms, and market analysis.
+
 
                                 </p>
                             </div>
@@ -124,7 +129,7 @@
                         <div class="content">
                             <h3 class="title w-600">Regulatory Compliance
                             </h3>
-                            <p class="description b1 color-gray mb--0">Guidance on meeting Turkey’s regulatory requirements.
+                            <p class="description b1 color-gray mb--0">Get assistance with meeting UAE’s regulatory requirements.
 
                             </p>
                         </div>
@@ -139,9 +144,10 @@
                             <img loading="lazy" src="assets/images/services/virtual.png" alt="virtual events" style="height:50px;">
                         </div>
                         <div class="content">
-                            <h3 class="title w-600" >Technical Support
+                            <h3 class="title w-600" >24/7 Support
                             </h3>
-                            <p class="description b1 color-gray mb--0"> 24/7 support, server hosting, and maintenance.
+                            <p class="description b1 color-gray mb--0"> Enjoy reliable technical support, hosting, and maintenance.
+
 
                             </p>
                         </div>
@@ -157,15 +163,17 @@
                         <div class="content">
                             <h3 class="title w-600" >Client Management
                             </h3>
-                            <p class="description b1 color-gray mb--0"> Integrated back-office and CRM solutions.
+                            <p class="description b1 color-gray mb--0"> Utilize integrated CRM and back-office solutions.
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
             <br>
-            <p>Turkey's growing forex and CFD market makes it an ideal location for brokers to expand. GreyLabelFX offers seamless platform setup and support, helping brokers succeed in this competitive environment.
+            <p>With a robust economy and increasing interest in online trading, the UAE offers tremendous opportunities for brokers. GreyLabelFX provides the tools and support to help you succeed in this fast-growing market.
+                <br>
 
+            Contact GreyLabelFX today to learn how our FX Grey Label solutions can help launch and grow your brokerage in the UAE.
             </p>
         </div>
 
@@ -177,14 +185,14 @@
             <div class="pricing-section">
                 <div class="container">
                     <div class="section-title text-center">
-                        <h2>MET5 GreyLabel Forex Services</h2>
-                        <p>Our MET5 GreyLabel Forex Broker Services Comprehensive Range of Offerings</p>
+                        <h2>FX Greylabel Server Forex Services</h2>
+                        <p>Our FX Greylabel Server Forex Broker Services Comprehensive Range of Offerings</p>
                     </div>
             
                     <div class="pricing-cards">
                         <!-- Updated Pricing Card 1 -->
                         <div class="pricing-card">
-                            <h3 class="plan-title">MET5-Generic</h3>
+                            <h3 class="plan-title">FX Greylabel Server-Generic</h3>
                             <div class="price"><span class="currency">$</span>500 <span class="period">PER MONTH</span></div>
                             <ul class="features">
                                 <li style="color: #fff; font-size: 22px;">Setup Fee $0</li>
@@ -200,7 +208,7 @@
             
                         <!-- Updated Pricing Card 2 -->
                         <div class="pricing-card">
-                            <h3 class="plan-title">MET5-Branded</h3>
+                            <h3 class="plan-title">FX Greylabel Server-Branded</h3>
                             <div class="price"><span class="currency">$</span>2500 <span class="period">PER MONTH</span></div>
                             <ul class="features">
                                 <li style="color: #fff; font-size: 22px;">Setup Fee $0</li>

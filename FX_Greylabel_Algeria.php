@@ -7,7 +7,7 @@
                         <div class="inner pt--80 text-center" data-sal="slide-up" data-sal-duration="400"
                             data-sal-delay="150">
 
-                            <h1 class="title display-one">MET5 GreyLabel in Algeria</h1>
+                            <h1 class="title display-one">FX Greylabel Server in Algeria</h1>
                         </div>
                     </div>
                 </div>
@@ -40,11 +40,11 @@
                             <div class="inner">
 
                                 <h2 class="title">
-                                    MET5 Grey Label Services in Algeria by GreyLabelFX
+                                    FX Grey Label Services in Algeria by GreyLabelFX
 
                                     </strong>
                                 </h1>
-                                <p>GreyLabelFX delivers premium MET5 Grey Label solutions in Algeria, enabling brokers to launch trading platforms easily and cost-effectively. Our solutions help brokers establish a strong foothold in Algeria’s growing forex and CFD trading market without the need for a full MET5 license.
+                                <p>GreyLabelFX delivers premium FX Grey Label solutions in Algeria, enabling brokers to launch trading platforms easily and cost-effectively. Our solutions help brokers establish a strong foothold in Algeria’s growing forex and CFD trading market without the need for a full FX Greylabel Server license.
 
                                 </p>
 
@@ -62,7 +62,7 @@
 
 
                     <h2 class="heading-titile-normal text-center">
-                        Why Choose MET5 Grey Label in Algeria?
+                        Why Choose FX Grey Label in Algeria?
 
                         </strong>
                     </h2>
@@ -173,7 +173,7 @@
             <br>
             <p>With growing internet penetration and a rising interest in online trading, Algeria offers significant opportunities for brokers to capture a dynamic market.
                 <br>
-            Contact GreyLabelFX today to explore how our MET5 Grey Label solutions can help you launch and grow your brokerage in Algeria.
+            Contact GreyLabelFX today to explore how our FX Grey Label solutions can help you launch and grow your brokerage in Algeria.
 
 
             </p>
@@ -187,14 +187,14 @@
             <div class="pricing-section">
                 <div class="container">
                     <div class="section-title text-center">
-                        <h2>MET5 GreyLabel Forex Services</h2>
-                        <p>Our MET5 GreyLabel Forex Broker Services Comprehensive Range of Offerings</p>
+                        <h2>FX Greylabel Server Forex Services</h2>
+                        <p>Our FX Greylabel Server Forex Broker Services Comprehensive Range of Offerings</p>
                     </div>
             
                     <div class="pricing-cards">
                         <!-- Updated Pricing Card 1 -->
                         <div class="pricing-card">
-                            <h3 class="plan-title">MET5-Generic</h3>
+                            <h3 class="plan-title">FX Greylabel Server-Generic</h3>
                             <div class="price"><span class="currency">$</span>500 <span class="period">PER MONTH</span></div>
                             <ul class="features">
                                 <li style="color: #fff; font-size: 22px;">Setup Fee $0</li>
@@ -210,7 +210,7 @@
             
                         <!-- Updated Pricing Card 2 -->
                         <div class="pricing-card">
-                            <h3 class="plan-title">MET5-Branded</h3>
+                            <h3 class="plan-title">FX Greylabel Server-Branded</h3>
                             <div class="price"><span class="currency">$</span>2500 <span class="period">PER MONTH</span></div>
                             <ul class="features">
                                 <li style="color: #fff; font-size: 22px;">Setup Fee $0</li>
