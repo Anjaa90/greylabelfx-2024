@@ -286,7 +286,7 @@
                     data-sal-delay="100">
                     <div class="service service__style--1 bg-color-blackest radius mt--25 text-center rbt-border">
                         <div class="icon">
-                            <img loading="lazy" src="assets\images\services\mt5.webp" alt="FX Greylabel Server services" style="height:50px;">
+                            <img loading="lazy" src="assets\images\services\fx.webp" alt="FX Greylabel Server services" style="height:50px;">
                         </div>
                         <div class="content">
                             <h3 class="title w-600">

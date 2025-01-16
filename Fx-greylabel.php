@@ -188,7 +188,7 @@
                                     <a href="#">Trade copier</a>
                                 </h2>
                                 <p class="description b1 color-gray mb--0">This plugin allows you to connect
-                                    several Meta accounts and <a href="#"
+                                    several FX Greylabel accounts and <a href="#"
                                     style="color: red;font-weight:bold;">copy trades</a>  from one account to the other.
 
                                 </p>
