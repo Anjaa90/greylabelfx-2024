@@ -79,7 +79,7 @@
                                 <div class="rn-pricing style-2">
                                     <div class="pricing-table-inner" style="padding-top:300px; padding-bottom:300px; ">
                                         <div class="pricing-header">
-                                            <h3 class="title" style="font-size:25px; ">Standard MT4</h3><br>
+                                            <h3 class="title" style="font-size:25px; ">Standard FX Greylabel</h3><br>
                                             <!-- <div class="pricing">
                                             <div class="price-wrapper"><span class="currency">$</span><span
                                                     class="price">29</span></div><span class="subtitle">USD Per
