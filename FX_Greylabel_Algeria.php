@@ -28,7 +28,7 @@
                             <div class="video-popup icon-center">
                                 <div class="overlay-content">
                                     <div class="thumbnail"><img class="radius-small"
-                                            src="assets\images\server\Greylabelfx_Algeria flag_11_12_2024 .png" alt="Corporate Image"></div>
+                                            src="assets\images\server\Greylabelfx_ Algeria Flag.png" alt="Corporate Image"></div>
 
                                 </div>
                             </div>
