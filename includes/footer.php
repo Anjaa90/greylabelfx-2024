@@ -1,3 +1,4 @@
+<?php include ('config.php');?>
 <footer class="rn-footer footer-style-default footer-style-1">
         <div class="footer-top">
             <div class="container">
