@@ -7,9 +7,9 @@
                         <div class="inner pt--80 text-center" data-sal="slide-up" data-sal-duration="400"
                             data-sal-delay="150">
                             <div>
-                                <h3 class="rn-sub-badge"><span class="theme-gradient">FX Greylabel Server</span></h3>
+                                <h3 class="rn-sub-badge">FX Greylabel Server</h3>
                             </div>
-                            <p style="font-size: 44px;" class="title display-one">We are a GREY LABEL SOLUTION
+                            <p style="font-size: 40px;"  class="title display-one">We are a GREY LABEL SOLUTION
                                 <br>provider for Forex brokerage.
                             </p>
                         </div>
@@ -17,6 +17,7 @@
                 </div>
             </div>
         </div>
+        <!-- <span class="theme-gradient"></span> -->
 
         <div class="rwt-about-area rn-section-gap">
             <div class="container">
@@ -271,7 +272,7 @@
                                     <h2 class="title" data-sal="slide-up" data-sal-duration="700" data-sal-delay="100">
                                         Most Useful FOR YOU</h2>
                                     <h3 class="description" data-sal="slide-up" data-sal-duration="700"
-                                        data-sal-delay="300">Infrastructure</h3>
+                                        data-sal-delay="300">Infrastructure</h3><br>
                                     <ul class="split-list" data-sal="slide-up" data-sal-duration="700"
                                         data-sal-delay="20">
                                         <p>Get access to our robust global network coverage and the world's most
