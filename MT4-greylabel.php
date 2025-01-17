@@ -175,7 +175,7 @@
                                     <a href="#">Trade copier</a>
                                 </h2>
                                 <p class="description b1 color-gray mb--0">This plugin allows you to connect
-                                    several Met Trader accounts and copy trades from one account to the other.
+                                    several FX Trader accounts and copy trades from one account to the other.
                                 </p>
                             </div>
                         </div>

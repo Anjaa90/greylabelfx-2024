@@ -8,7 +8,7 @@
                         <div class="inner pt--80 text-center" data-sal="slide-up" data-sal-duration="400"
                             data-sal-delay="150">
 
-                            <h1 class="title display-one">MET Greylabel</h1>
+                            <h1 class="title display-one">FX Greylabel Server</h1>
                         </div>
                     </div>
                 </div>
@@ -57,7 +57,7 @@
                     <div class="col-lg-12">
                         <div class="section-title text-center" data-sal="slide-up" data-sal-duration="400"
                             data-sal-delay="150">
-                            <h1 class="subtitle "><span class="theme-gradient">MET GreyLabel Forex Services
+                            <h1 class="subtitle "><span class="theme-gradient">FX GreyLabel Forex Services
                             </span></h1>
                             <h2 class="title w-600 mb--20">Comprehensive Range of Offerings for Forex Brokers</h2>
                         </div>
@@ -78,7 +78,7 @@
                                                 </div>
                                             </div>
                                            
-                                            <h2 class="title">MET-Generic</h2>
+                                            <h2 class="title">FX Greylabel Server-Generic</h2>
                                             <!-- <div class="pricing">
                                                 <div class="price-wrapper">
                                                     <span class="currency">$500</span></div>
@@ -144,7 +144,7 @@
                                                     <p>Best & Effective</p>
                                                 </div>
                                             </div>
-                                            <h2 class="title">MET-Branded</h2>
+                                            <h2 class="title">FX Greylabel Server-Branded</h2>
                                             <!-- <div class="pricing">
                                                 <div class="price-wrapper"><span class="currency"
                                                         >$1000</span></div>
@@ -260,9 +260,9 @@
     {
       "@context": "https://schema.org",
       "@type": "Organization",
-      "name": "MET Greylabel Pricing",
-      "alternateName": "MET Greylabel Pricing",
-      "url": "https://greylabel-fx.com/MET-greylabel-pricing.php",
+      "name": "FX Greylabel Pricing",
+      "alternateName": "FX Greylabel Pricing",
+      "url": "https://greylabel-fx.com/FX-greylabel-pricing.php",
       "logo": "https://greylabel-fx.com/assets/images/logo/white-01.webp",
       "contactPoint": {
         "@type": "ContactPoint",

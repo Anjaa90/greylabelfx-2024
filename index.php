@@ -127,7 +127,7 @@
             <div class="row">
                 <div class="col-lg-8 order-2 order-lg-1 mt_md--40 mt_sm--40">
                     <div class="inner text-left">
-                        <h1 class="title theme-gradient display-two">Launch Your Forex Brokerage with MET5 GreyLabel
+                        <h1 class="title theme-gradient display-two">Launch Your Forex Brokerage with FX Greylabel Server
                         </h1>
                         <h2>
                             <span class="header-caption">
@@ -179,15 +179,14 @@
                         <div class="section-title">
                             <h2 class="title heading-titile-normal">Start Your Forex Brokerage at Low Cost
                             </h2><br>
-                            <p>GreyLabelFX offers an affordable way to start your Forex trading business with MET5 Grey
-                                Label. This solution is
+                            <p>GreyLabelFX offers an affordable way to start your Forex trading business with FX Greylabel Server. This solution is
                                 perfect for new brokers who want to begin small and grow their business without a big
                                 investment.</p><br>
                             <p>A Grey Label platform is an easy and cost-effective way to launch a professional Forex
-                                brokerage. With MET5,
+                                brokerage. With FX Greylabel Server,
                                 connecting to liquidity providers is simple, ensuring smooth and reliable operations.
                             </p><br>
-                            <p>Ideal for Introducing Brokers (IBs) and local brokers, MET5 Grey Label includes powerful
+                            <p>Ideal for Introducing Brokers (IBs) and local brokers, FX Grey Label Server includes powerful
                                 features to help you
                                 succeed in the competitive Forex market.
                             </p><br>
@@ -287,19 +286,19 @@
                     data-sal-delay="100">
                     <div class="service service__style--1 bg-color-blackest radius mt--25 text-center rbt-border">
                         <div class="icon">
-                            <img loading="lazy" src="assets\images\services\mt5.webp" alt="MET5 services" style="height:50px;">
+                            <img loading="lazy" src="assets\images\services\fx.webp" alt="FX Greylabel Server services" style="height:50px;">
                         </div>
                         <div class="content">
                             <h3 class="title w-600">
-                                <a href="MET5-greylabel.php">MET5 GreyLabel: Affordable and Powerful Trading Solution
+                                <a href="FX-greylabel.php">FX Greylabel Server: Affordable and Powerful Trading Solution
                                 </a>
                             </h3>
                             <p class="description b1 color-gray mb--0"> <a
-                                    href="MET5-greylabel.php"
-                                    class="font-blod-color-title">MET5 Greylabel</a> offers a cost-effective alternative
+                                    href="FX-greylabel.php"
+                                    class="font-blod-color-title">FX Greylabel Server</a> offers a cost-effective alternative
                                 to a full license, delivering the same functionality while giving you better control
                                 over expenses. With access to a wide range of trading tools like TradersRoom, Trade
-                                Copier, PAMM, MAMM, Bridge, and API, MET5 GreyLabel provides everything you need to run
+                                Copier, PAMM, MAMM, Bridge, and API, FX Greylabel Server provides everything you need to run
                                 a successful brokerage at a fraction of the cost.</p>
                         </div>
                     </div>

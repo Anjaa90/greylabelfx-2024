@@ -35,7 +35,7 @@
                         <div class="section-title text-center" data-sal="slide-up" data-sal-duration="400"
                             data-sal-delay="150">
                             <h1 class="subtitle "><span class="theme-gradient">Pricing</span></h1>
-                            <h2 class="title w-600 mb--20">Advanced /MET5</h2>
+                            <h2 class="title w-600 mb--20">Advanced /FX Greylabel Server</h2>
                         </div>
                     </div>
                 </div>
@@ -59,7 +59,7 @@
                                 <div class="rn-pricing style-2 active">
                                     <div class="pricing-table-inner">
                                         <div class="pricing-header">
-                                            <h3 class="title" style="font-size:25px; ">Advanced MET5</h3><br>
+                                            <h3 class="title" style="font-size:25px; ">Advanced FX Greylabel Server</h3><br>
                                             <div class="pricing">
                                                 <div class="price-wrapper"><span class="currency"
                                                         style="font-size: 18px; font-weight:500;">Monthly Fee:

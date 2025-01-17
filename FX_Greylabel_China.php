@@ -7,7 +7,7 @@
                         <div class="inner pt--80 text-center" data-sal="slide-up" data-sal-duration="400"
                             data-sal-delay="150">
 
-                            <h1 class="title display-one">MET5 GreyLabel in UAE</h1>
+                            <h1 class="title display-one">FX Greylabel Server in China</h1>
                         </div>
                     </div>
                 </div>
@@ -28,7 +28,7 @@
                             <div class="video-popup icon-center">
                                 <div class="overlay-content">
                                     <div class="thumbnail"><img class="radius-small"
-                                            src="assets\images\server\Greylabelfx_UAE flag _11_12_2024.png" alt="Corporate Image"></div>
+                                            src="assets\images\Greylabelfx _china Flag_11_12_2024 .png" alt="Corporate Image"></div>
 
                                 </div>
                             </div>
@@ -40,11 +40,11 @@
                             <div class="inner">
 
                                 <h2 class="title">
-                                    MET5 Grey Label Services in UAE by GreyLabelFX
+                                    FX Grey Label Solutions in China by GreyLabelFX
 
                                     </strong>
                                 </h1>
-                                <p>GreyLabelFX provides cost-effective MET5 Grey Label solutions in the UAE, enabling brokers to quickly launch and manage trading platforms without the complexity of a full MET5 license. Ideal for brokers entering the competitive forex and CFD market in the UAE, this solution minimizes setup costs and accelerates time to market.
+                                <p>GreyLabelFX offers tailored FX Grey Label solutions in China, enabling brokers to launch trading platforms with advanced features without the need for a full FX Greylabel Server license.  FX Greylabel Server is a global multi-asset platform supporting forex, stocks, commodities, and futures.
 
                                 </p>
 
@@ -62,7 +62,8 @@
 
 
                     <h2 class="heading-titile-normal text-center">
-                        Why Choose MET5 Grey Label in the UAE?
+                        Why Choose FX Grey Label in China?
+
                         </strong>
                     </h2>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700">
@@ -72,10 +73,9 @@
                                 <img loading="lazy" src="assets/images/services/trader.png" alt="trader" style="height:50px;">
                             </div>
                             <div class="content">
-                                <h3 class="title w-600">Cost-Efficiency
+                                <h3 class="title w-600">Cost-Effective
                                 </h3>
-                                <p class="description b1 color-gray mb--0">Save on licensing fees with an affordable setup.
-
+                                <p class="description b1 color-gray mb--0">Avoid high license costs while offering professional-grade services.
                                 </p>
                             </div>
                         </div>
@@ -91,8 +91,7 @@
                             <div class="content">
                                 <h3 class="title w-600">Custom Branding
                                 </h3>
-                                <p class="description b1 color-gray mb--0"> Personalize your platform with tailored features and branding.
-                                </p>
+                                <p class="description b1 color-gray mb--0"> Personalize FX Greylabel Server to reflect your brand identity.</p>
                             </div>
                         </div>
                     </div>
@@ -105,10 +104,9 @@
                                 <img loading="lazy" src="assets/images/services/trade-copier.png" alt="trade copier image" style="height:50px;">
                             </div>
                             <div class="content">
-                                <h3 class="title w-600">Advanced Tools
+                                <h3 class="title w-600">Advanced Features
                                 </h3>
-                                <p class="description b1 color-gray mb--0">Access MET5’s tools like multi-asset trading, algorithms, and market analysis.
-
+                                <p class="description b1 color-gray mb--0">Access algorithmic trading, market depth, copy trading, and more.
 
                                 </p>
                             </div>
@@ -127,9 +125,10 @@
                             <img loading="lazy" src="assets/images/services/pamms.png" alt="Percentage Allocation Management Module" style="height:50px;">
                         </div>
                         <div class="content">
-                            <h3 class="title w-600">Regulatory Compliance
+                            <h3 class="title w-600">Regulatory Support
                             </h3>
-                            <p class="description b1 color-gray mb--0">Get assistance with meeting UAE’s regulatory requirements.
+                            <p class="description b1 color-gray mb--0">Expert guidance on China’s complex financial regulations.
+
 
                             </p>
                         </div>
@@ -144,10 +143,9 @@
                             <img loading="lazy" src="assets/images/services/virtual.png" alt="virtual events" style="height:50px;">
                         </div>
                         <div class="content">
-                            <h3 class="title w-600" >24/7 Support
+                            <h3 class="title w-600" >Scalable Solutions
                             </h3>
-                            <p class="description b1 color-gray mb--0"> Enjoy reliable technical support, hosting, and maintenance.
-
+                            <p class="description b1 color-gray mb--0"> Easily expand your platform as your business grows.
 
                             </p>
                         </div>
@@ -161,19 +159,17 @@
                             <img loading="lazy" src="assets/images/services/virtual.png" alt="virtual events" style="height:50px;">
                         </div>
                         <div class="content">
-                            <h3 class="title w-600" >Client Management
+                            <h3 class="title w-600" >Reliable Support
                             </h3>
-                            <p class="description b1 color-gray mb--0"> Utilize integrated CRM and back-office solutions.
+                            <p class="description b1 color-gray mb--0"> 24/7 technical support, hosting, and maintenance.
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
             <br>
-            <p>With a robust economy and increasing interest in online trading, the UAE offers tremendous opportunities for brokers. GreyLabelFX provides the tools and support to help you succeed in this fast-growing market.
-                <br>
+            <p>China's growing trading market offers significant opportunities. GreyLabelFX provides hassle-free setup, technology integration, and regulatory support to help brokers succeed in this dynamic market.
 
-            Contact GreyLabelFX today to learn how our MET5 Grey Label solutions can help launch and grow your brokerage in the UAE.
             </p>
         </div>
 
@@ -185,14 +181,14 @@
             <div class="pricing-section">
                 <div class="container">
                     <div class="section-title text-center">
-                        <h2>MET5 GreyLabel Forex Services</h2>
-                        <p>Our MET5 GreyLabel Forex Broker Services Comprehensive Range of Offerings</p>
+                        <h2>FX Greylabel Server Forex Services</h2>
+                        <p>Our FX Greylabel Server Forex Broker Services Comprehensive Range of Offerings</p>
                     </div>
             
                     <div class="pricing-cards">
                         <!-- Updated Pricing Card 1 -->
                         <div class="pricing-card">
-                            <h3 class="plan-title">MET5-Generic</h3>
+                            <h3 class="plan-title">FX Greylabel Server-Generic</h3>
                             <div class="price"><span class="currency">$</span>500 <span class="period">PER MONTH</span></div>
                             <ul class="features">
                                 <li style="color: #fff; font-size: 22px;">Setup Fee $0</li>
@@ -208,7 +204,7 @@
             
                         <!-- Updated Pricing Card 2 -->
                         <div class="pricing-card">
-                            <h3 class="plan-title">MET5-Branded</h3>
+                            <h3 class="plan-title">FX Greylabel Server-Branded</h3>
                             <div class="price"><span class="currency">$</span>2500 <span class="period">PER MONTH</span></div>
                             <ul class="features">
                                 <li style="color: #fff; font-size: 22px;">Setup Fee $0</li>

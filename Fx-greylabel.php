@@ -7,7 +7,7 @@
                         <div class="inner pt--80 text-center" data-sal="slide-up" data-sal-duration="400"
                             data-sal-delay="150">
                             <div>
-                                <h3 class="rn-sub-badge"><span class="theme-gradient">MET</span></h3>
+                                <h3 class="rn-sub-badge"><span class="theme-gradient">FX Greylabel Server</span></h3>
                             </div>
                             <p style="font-size: 44px;" class="title display-one">We are a GREY LABEL SOLUTION
                                 <br>provider for Forex brokerage.
@@ -29,18 +29,18 @@
                     <div class="col-lg-7 mt_md--40 mt_sm--40">
                         <div class="content" data-sal="slide-left" data-sal-duration="800">
                             <div class="section-title">
-                                <h1 class="title">MET Grey Label<br>
+                                <h1 class="title">FX Greylabel Server<br>
 
                                 </h1>
-                                <p>With MET Grey Label, you can get a tailored Forex trading platform designed to fit your business needs.</p>
+                                <p>With FX Greylabel Server, you can get a tailored Forex trading platform designed to fit your business needs.</p>
 
-                                <h2 class="title">MET Grey Label Includes:
+                                <h2 class="title">FX Greylabel Server Includes:
                                     <br>
 
                                 </h2>
                                 <p>GreylabelFX has supported many brokers in starting their Forex business. We understand that every broker is unique, which is why we offer flexible solutions for different business models.
                                 </p>
-                                <p>Our MET Grey Label platform includes powerful tools such as TradersRoom, Trade Copier, PAMM, MAMM, Bridge, and API to help you run your brokerage smoothly.
+                                <p>Our FX Greylabel Server platform includes powerful tools such as TradersRoom, Trade Copier, PAMM, MAMM, Bridge, and API to help you run your brokerage smoothly.
                                 </p>
                                 <p>Whether you're just starting or looking to grow your business, GreylabelFX offers the right solutions for you.
                                 </p>
@@ -80,7 +80,7 @@
 
                                     </div>
                                     <div class="title-wrapper">
-                                        <h3 class="title" style="font-size:20px;">MET Manager</h3>
+                                        <h3 class="title" style="font-size:20px;">FX Greylabel Server Manager</h3>
 
                                     </div>
                                 </li>
@@ -188,7 +188,7 @@
                                     <a href="#">Trade copier</a>
                                 </h2>
                                 <p class="description b1 color-gray mb--0">This plugin allows you to connect
-                                    several Meta accounts and <a href="#"
+                                    several FX Greylabel accounts and <a href="#"
                                     style="color: red;font-weight:bold;">copy trades</a>  from one account to the other.
 
                                 </p>
@@ -558,9 +558,9 @@
     {
       "@context": "https://schema.org",
       "@type": "Organization",
-      "name": "MET GreyLabel",
-      "alternateName": "MET GreyLabel",
-      "url": "https://greylabelfx.com/MET-greylabel.php",
+      "name": "FX Greylabel Server",
+      "alternateName": "FX Greylabel Server",
+      "url": "https://greylabelfx.com/FX-greylabel.php",
       "logo": "https://greylabelfx.com/assets/images/logo/white-01.webp",
       "sameAs": [
         "https://www.facebook.com/Greylabelfx",

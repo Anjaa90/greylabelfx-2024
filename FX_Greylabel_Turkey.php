@@ -1,5 +1,4 @@
 <?php include ('includes/header.php');?>
-
         <div class="slider-area slider-style-1 variation-default height-850 bg_image bg_image--12"
             data-black-overlay="7">
             <div class="container">
@@ -8,7 +7,7 @@
                         <div class="inner pt--80 text-center" data-sal="slide-up" data-sal-duration="400"
                             data-sal-delay="150">
 
-                            <h1 class="title display-one">MET5 GreyLabel in Albania</h1>
+                            <h1 class="title display-one">FX Greylabel Server in Turkey</h1>
                         </div>
                     </div>
                 </div>
@@ -29,7 +28,7 @@
                             <div class="video-popup icon-center">
                                 <div class="overlay-content">
                                     <div class="thumbnail"><img class="radius-small"
-                                            src="assets\images\server\Greylabelfx_Albania flag _11_12_2024.png" alt="Corporate Image"></div>
+                                            src="assets\images\server\Greylabelfx_Turkey flag 11_12_2024 .png" alt="Corporate Image"></div>
 
                                 </div>
                             </div>
@@ -41,12 +40,10 @@
                             <div class="inner">
 
                                 <h2 class="title">
-                                    MET5 Grey Label Services in Albania by GreylabelFx
-
+                                    FX Grey Label Solutions in Turkey by GreyLabelFX
                                     </strong>
                                 </h1>
-                                <p>GreylabelFx offers tailored MET5 Grey Label solutions in Albania, providing brokers with an affordable and efficient way to launch and manage their trading platforms. Whether you're a startup or an established broker, our solutions simplify market entry and deliver the tools you need for success.
-
+                                <p>GreyLabelFX offers FX Grey Label solutions in Turkey, allowing brokers to launch and operate trading platforms without the need for a full FX Greylabel Server license. This cost-effective solution provides access to FX Greylabel Server advanced features, such as algorithmic trading, market depth, and detailed charting tools, under the broker’s brand.
                                 </p>
 
                                 
@@ -63,8 +60,7 @@
 
 
                     <h2 class="heading-titile-normal text-center">
-                        Why Choose MET5 Grey Label in Albania?
-
+                        Why Choose FX Grey Label in Turkey?
                         </strong>
                     </h2>
                     <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700">
@@ -74,10 +70,9 @@
                                 <img loading="lazy" src="assets/images/services/trader.png" alt="trader" style="height:50px;">
                             </div>
                             <div class="content">
-                                <h3 class="title w-600">Cost-Effective Market Entry
+                                <h3 class="title w-600">Cost-Efficiency
                                 </h3>
-                                <p class="description b1 color-gray mb--0">Avoid direct licensing costs and start your trading business affordably.
-
+                                <p class="description b1 color-gray mb--0">Avoid expensive direct licenses, reducing initial costs.
                                 </p>
                             </div>
                         </div>
@@ -93,8 +88,7 @@
                             <div class="content">
                                 <h3 class="title w-600">Custom Branding
                                 </h3>
-                                <p class="description b1 color-gray mb--0"> Personalize the platform to match your brand identity and target audience.
-                                </p>
+                                <p class="description b1 color-gray mb--0"> Personalize the platform with your brand and features.</p>
                             </div>
                         </div>
                     </div>
@@ -107,9 +101,9 @@
                                 <img loading="lazy" src="assets/images/services/trade-copier.png" alt="trade copier image" style="height:50px;">
                             </div>
                             <div class="content">
-                                <h3 class="title w-600">Advanced Trading Tools
+                                <h3 class="title w-600">Advanced Tools
                                 </h3>
-                                <p class="description b1 color-gray mb--0">Offer clients features like multi-asset trading, algorithmic strategies, and market analytics.
+                                <p class="description b1 color-gray mb--0">Benefit from FX Greylabel Server multi-asset trading and analysis tools.
 
                                 </p>
                             </div>
@@ -130,8 +124,7 @@
                         <div class="content">
                             <h3 class="title w-600">Regulatory Compliance
                             </h3>
-                            <p class="description b1 color-gray mb--0"> Navigate Albania’s regulations with expert guidance for secure operations.
-
+                            <p class="description b1 color-gray mb--0">Guidance on meeting Turkey’s regulatory requirements.
 
                             </p>
                         </div>
@@ -146,10 +139,9 @@
                             <img loading="lazy" src="assets/images/services/virtual.png" alt="virtual events" style="height:50px;">
                         </div>
                         <div class="content">
-                            <h3 class="title w-600" >24/7 Technical Support
+                            <h3 class="title w-600" >Technical Support
                             </h3>
-                            <p class="description b1 color-gray mb--0"> Enjoy reliable platform maintenance and dedicated support.
-
+                            <p class="description b1 color-gray mb--0"> 24/7 support, server hosting, and maintenance.
 
                             </p>
                         </div>
@@ -163,20 +155,16 @@
                             <img loading="lazy" src="assets/images/services/virtual.png" alt="virtual events" style="height:50px;">
                         </div>
                         <div class="content">
-                            <h3 class="title w-600" >Streamlined Management
+                            <h3 class="title w-600" >Client Management
                             </h3>
-                            <p class="description b1 color-gray mb--0"> Use integrated tools to manage clients, track performance, and optimize operations.
-
+                            <p class="description b1 color-gray mb--0"> Integrated back-office and CRM solutions.
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
             <br>
-            <p>With a growing interest in forex and CFD trading, Albania presents a lucrative opportunity for brokers. GreylabelFx simplifies the process of entering this dynamic market with cutting-edge solutions and expert support.
-
-            <br>
-            Contact GreylabelFx today to explore how our MET5 Grey Label services can help you succeed in Albania.
+            <p>Turkey's growing forex and CFD market makes it an ideal location for brokers to expand. GreyLabelFX offers seamless platform setup and support, helping brokers succeed in this competitive environment.
 
             </p>
         </div>
@@ -189,14 +177,14 @@
             <div class="pricing-section">
                 <div class="container">
                     <div class="section-title text-center">
-                        <h2>MET5 GreyLabel Forex Services</h2>
-                        <p>Our MET5 GreyLabel Forex Broker Services Comprehensive Range of Offerings</p>
+                        <h2>FX Greylabel Server Forex Services</h2>
+                        <p>Our FX Greylabel Server Forex Broker Services Comprehensive Range of Offerings</p>
                     </div>
             
                     <div class="pricing-cards">
                         <!-- Updated Pricing Card 1 -->
                         <div class="pricing-card">
-                            <h3 class="plan-title">MET5-Generic</h3>
+                            <h3 class="plan-title">FX Greylabel Server-Generic</h3>
                             <div class="price"><span class="currency">$</span>500 <span class="period">PER MONTH</span></div>
                             <ul class="features">
                                 <li style="color: #fff; font-size: 22px;">Setup Fee $0</li>
@@ -212,7 +200,7 @@
             
                         <!-- Updated Pricing Card 2 -->
                         <div class="pricing-card">
-                            <h3 class="plan-title">MET5-Branded</h3>
+                            <h3 class="plan-title">FX Greylabel Server-Branded</h3>
                             <div class="price"><span class="currency">$</span>2500 <span class="period">PER MONTH</span></div>
                             <ul class="features">
                                 <li style="color: #fff; font-size: 22px;">Setup Fee $0</li>
@@ -352,6 +340,7 @@
 
             </form>
         </div> -->
+
         <?php include ('includes/footer.php');?>
         
     </main>

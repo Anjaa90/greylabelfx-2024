@@ -7,7 +7,7 @@
                         <div class="inner pt--80 text-center" data-sal="slide-up" data-sal-duration="400"
                             data-sal-delay="150">
 
-                            <h1 class="title display-one">MET5 GreyLabel in Malaysia</h1>
+                            <h1 class="title display-one">FX Greylabel Server in Singapore</h1>
                         </div>
                     </div>
                 </div>
@@ -28,7 +28,7 @@
                             <div class="video-popup icon-center">
                                 <div class="overlay-content">
                                     <div class="thumbnail"><img class="radius-small"
-                                            src="assets\images\server\Greylabelfx_Malaysia Flag 11_12_2024.png" alt="Corporate Image"></div>
+                                            src="assets\images\server\Greylabelfx_Singapore 11_12_2024.png" alt="Corporate Image"></div>
 
                                 </div>
                             </div>
@@ -40,12 +40,11 @@
                             <div class="inner">
 
                                 <h2 class="title">
-                                    MET5 Grey Label Solutions in Malaysia by GreyLabelFX
+                                    FX Grey Label Solutions in Singapore by GreyLabelFX
 
                                     </strong>
                                 </h1>
-                                <p>GreyLabelFX offers MET5 Grey Label solutions in Malaysia, allowing brokers to establish advanced trading platforms with minimal costs.  MET5 is a renowned multi-asset platform, ideal for brokers seeking powerful analytics and robust trading features in Malaysia’s dynamic market.
-
+                                <p>GreyLabelFX offers FX Grey Label solutions in Singapore, enabling brokers to easily launch trading platforms with advanced features and minimal investment.  FX Greylabel Server is a top-tier platform known for its multi-asset capabilities, advanced analytics, and user-friendly interface.
                                 </p>
 
                                 
@@ -62,7 +61,7 @@
 
 
                     <h2 class="heading-titile-normal text-center">
-                        Why Choose MET5 Grey Label in Malaysia?
+                        Why Choose FX Grey Label in Singapore?
 
                         </strong>
                     </h2>
@@ -73,9 +72,10 @@
                                 <img loading="lazy" src="assets/images/services/trader.png" alt="trader" style="height:50px;">
                             </div>
                             <div class="content">
-                                <h3 class="title w-600">Cost-Effective
+                                <h3 class="title w-600">Cost-Efficiency
                                 </h3>
-                                <p class="description b1 color-gray mb--0">Utilize MET5 without a full license, reducing initial costs.
+                                <p class="description b1 color-gray mb--0">Access premium features without the high cost of a full FX Greylabel Server license.
+
                                 </p>
                             </div>
                         </div>
@@ -91,8 +91,7 @@
                             <div class="content">
                                 <h3 class="title w-600">Custom Branding
                                 </h3>
-                                <p class="description b1 color-gray mb--0"> Personalize the platform with your logo and design to suit the Malaysian market.
-                                </p>
+                                <p class="description b1 color-gray mb--0"> Personalize the platform to fit the preferences of Singapore's sophisticated traders.</p>
                             </div>
                         </div>
                     </div>
@@ -105,9 +104,9 @@
                                 <img loading="lazy" src="assets/images/services/trade-copier.png" alt="trade copier image" style="height:50px;">
                             </div>
                             <div class="content">
-                                <h3 class="title w-600">Advanced Trading Tools
+                                <h3 class="title w-600">Advanced Features
                                 </h3>
-                                <p class="description b1 color-gray mb--0">Offer features like algorithmic trading, market depth, and technical analysis.
+                                <p class="description b1 color-gray mb--0"> Offer multi-asset trading, algorithmic strategies, copy trading, and market depth analysis.
 
 
                                 </p>
@@ -127,10 +126,9 @@
                             <img loading="lazy" src="assets/images/services/pamms.png" alt="Percentage Allocation Management Module" style="height:50px;">
                         </div>
                         <div class="content">
-                            <h3 class="title w-600">Regulatory Support
+                            <h3 class="title w-600">Regulatory Guidance
                             </h3>
-                            <p class="description b1 color-gray mb--0">Navigate Malaysia’s regulations with guidance on compliance from the Securities Commission Malaysia (SC).
-
+                            <p class="description b1 color-gray mb--0">Ensure compliance with the Monetary Authority of Singapore (MAS) for a secure trading environment.
 
                             </p>
                         </div>
@@ -145,9 +143,10 @@
                             <img loading="lazy" src="assets/images/services/virtual.png" alt="virtual events" style="height:50px;">
                         </div>
                         <div class="content">
-                            <h3 class="title w-600" >Scalable Growth
+                            <h3 class="title w-600" >Scalability
                             </h3>
-                            <p class="description b1 color-gray mb--0"> Expand your platform to new markets and asset classes as your business grows.
+                            <p class="description b1 color-gray mb--0"> Seamlessly expand your platform with new markets, products, and features.
+
 
                             </p>
                         </div>
@@ -161,18 +160,16 @@
                             <img loading="lazy" src="assets/images/services/virtual.png" alt="virtual events" style="height:50px;">
                         </div>
                         <div class="content">
-                            <h3 class="title w-600" >Reliable Support
+                            <h3 class="title w-600" >24/7 Support
                             </h3>
-                            <p class="description b1 color-gray mb--0"> Access 24/7 server hosting, maintenance, and technical assistance.
-
+                            <p class="description b1 color-gray mb--0"> Benefit from continuous server maintenance and technical assistance.
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
             <br>
-            <p>Malaysia's growing interest in online forex and CFD trading makes it a prime market for brokers. GreyLabelFX offers comprehensive support, from platform customization to regulatory compliance, ensuring your business thrives in this competitive environment.
-
+            <p>Singapore's status as a global financial hub, coupled with its stable economy and strong regulatory framework, presents a prime opportunity for brokers. GreyLabelFX's end-to-end solutions ensure your success in Singapore's competitive forex and CFD trading market.
 
             </p>
         </div>
@@ -185,14 +182,14 @@
             <div class="pricing-section">
                 <div class="container">
                     <div class="section-title text-center">
-                        <h2>MET5 GreyLabel Forex Services</h2>
-                        <p>Our MET5 GreyLabel Forex Broker Services Comprehensive Range of Offerings</p>
+                        <h2>FX Greylabel Server Forex Services</h2>
+                        <p>Our FX Greylabel Server Forex Broker Services Comprehensive Range of Offerings</p>
                     </div>
             
                     <div class="pricing-cards">
                         <!-- Updated Pricing Card 1 -->
                         <div class="pricing-card">
-                            <h3 class="plan-title">MET5-Generic</h3>
+                            <h3 class="plan-title">FX Greylabel Server-Generic</h3>
                             <div class="price"><span class="currency">$</span>500 <span class="period">PER MONTH</span></div>
                             <ul class="features">
                                 <li style="color: #fff; font-size: 22px;">Setup Fee $0</li>
@@ -208,7 +205,7 @@
             
                         <!-- Updated Pricing Card 2 -->
                         <div class="pricing-card">
-                            <h3 class="plan-title">MET5-Branded</h3>
+                            <h3 class="plan-title">FX Greylabel Server-Branded</h3>
                             <div class="price"><span class="currency">$</span>2500 <span class="period">PER MONTH</span></div>
                             <ul class="features">
                                 <li style="color: #fff; font-size: 22px;">Setup Fee $0</li>
