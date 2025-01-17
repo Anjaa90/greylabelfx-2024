@@ -29,20 +29,19 @@
                             <div class="section-title">
                                 <h1 class="title">About Us<br>
                                     <span class="header-caption">
-
                                     </span>
-                                </h1>
+                                </h1><br>
                                 <p>GreylabelFX helps you develop your forex company from the beginning! <a
                                         href="https://greylabelfx.com/" class="font-blod-color-title">GreylabelFX</a> is
                                     a global provider of forex technology. Our company offers you the best forex brokering
                                     solutions in the world for your forex company. Become forex broker with GreylabelFX.
                                     We offer <a href="#"
                                         class="font-blod-color-title"> Grey Label Platform</a> and FX Grey Label
-                                    Platform at reasonable price.</p>
+                                    Platform at reasonable price.</p><br>
                                 <p>In the past, we have assisted many people in starting their own forex brokerage
                                     companies.
                                     Our team of professionals has extensive experience in retail forex trading and a
-                                    through understanding of forex broking technology. </p>
+                                    through understanding of forex broking technology. </p><br>
                                 <p>In the retail forex market, we have a good handle on things. You can find all the
                                     tools you need to run your <a href="https://greylabelfx.com/"
                                     style="color: red;font-weight:bold;">Forex Brokerage</a>  business in one place. Providing the most

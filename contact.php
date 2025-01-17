@@ -28,7 +28,7 @@
                                                 </a>
                                             </div>
                                             <div class="inner">
-                                                <br>
+                                            
                                                 <p>
                                                     Contact us <on:br></on:br><br> <br>WhatsApp
                                                     <a href="https://wa.me/447403655762" target="_blank" ><span style="color: #039BE5;"> +447403655762</span></a></p>

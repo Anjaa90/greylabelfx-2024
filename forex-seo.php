@@ -31,7 +31,7 @@
                                         </span>
                                     </span>
                                 </span>
-                            </h1>
+                            </h1><br>
                             <p>Boost your visibility and stay ahead of the competition with <a href="index.php"><span style="color:red ;font-weight: bold;">GreyLabelFX's</span></a> tailored SEO and SMO services, designed to drive traffic and grow your Forex business.
                             </p>
                             
@@ -64,10 +64,10 @@
                                                 </span>
                                             </span>
                                         </span>
-                                    </h2>
+                                    </h2><br>
                                     <p>In today's digital age, online marketing is crucial for business success. With GreyLabelFX SEO services, <a href="https://greylabel-fx.com//broker-website.php"
                                         style="color: red;font-weight:bold;">Forex Brokers</a>can enhance their online presence and stand out in the crowded Forex market.
-                                    </p>                                   
+                                    </p><br>                                   
                                     <p>Our expert SEO solutions help you surpass competitors and attract more clients to your Forex brokerage. As an experienced SEO provider for the Forex industry, we focus on growing your business with the best strategies and tailored solutions.
                                     </p>
                                     

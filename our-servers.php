@@ -58,10 +58,10 @@
                 <div class="content" data-sal="slide-left" data-sal-duration="800">
                     <div class="section-title">
                         <h2 class="subheading-titile-normal">Global Trading with Lightning-Fast Execution
-                        </h2>
+                        </h2><br>
                         <p>GreylabelFX has partnered with Equinix, a world leader in trading server technology, to offer
                             a high-speed fibre-optic network that connects our trading servers across the globe.
-                        </p>
+                        </p><br>
                         <p>This collaboration ensures lightning-fast execution</a>lightning-fast execution for every
                             trade, giving us a technological edge over competitors. With Equinix’s advanced
                             infrastructure, GreylabelFX provides the fastest, most reliable trading experience to
@@ -92,10 +92,10 @@
                 <div class="content" data-sal="slide-left" data-sal-duration="800">
                     <div class="section-title">
                         <h2 class="subheading-titile-normal">Innovative Technology for Superior Trading
-                        </h2>
+                        </h2><br>
                         <p>
                             At GreylabelFX, we are always integrating new technologies to better serve our clients.
-                        </p>
+                        </p><br>
                         <p>The Equinix FX Greylabel Server Cross is a next-generation price aggregator that connects the dark liquidity
                             pool directly to your FX Greylabel platform, ensuring access to the best prices available.
                             Additionally,the Equinix FX Greylabel Server Bridge is the only advanced solution capable of handling large
@@ -119,12 +119,11 @@
                     <div class="section-title">
                         <h2 class="subheading-titile-normal">Unrivaled Performance with GreylabelFX's Fibre Optic
                             Network
-
-                        </h2>
+                        </h2><br>
                         <p>GreylabelFX’s fibre optic network provides exceptional performance for all clients. Each
                             fibre optic line connecting to our servers is thoroughly tested to minimize latency,
                             ensuring the fastest execution speeds possible.
-                        </p>
+                        </p><br>
                         <p>Our advanced network allows you to enhance trading performance, unlock new possibilities, and
                             accelerate execution, giving you a competitive edge in the market. Experience the power of
                             speed and reliability with GreylabelFX.
@@ -154,10 +153,10 @@
                 <div class="content" data-sal="slide-left" data-sal-duration="800">
                     <div class="section-title">
                         <h2 class="subheading-titile-normal">AWS Turbo Boost Technology for Unmatched Speed
-                        </h2>
+                        </h2><br>
                         <p>GreylabelFX leverages Equinix fibre optic infrastructure designed for 99.99% uptime, ensuring
                             reliable performance for mission-critical workloads.
-                        </p>
+                        </p><br>
                         <p>With the power of AWS processing, the FX Greylabel Server Bridge operates at lightning-fast speeds, giving
                             clients faster access to global market prices. This advanced technology enables smoother and
                             more efficient trading, helping you stay ahead in the market.</p>

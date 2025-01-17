@@ -7,9 +7,9 @@
                         <div class="inner pt--80 text-center" data-sal="slide-up" data-sal-duration="400"
                             data-sal-delay="150">
                             <div>
-                                <h3 class="rn-sub-badge"><span class="theme-gradient">FX Greylabel Server</span></h3>
+                                <h3 class="rn-sub-badge">FX Greylabel Server</h3>
                             </div>
-                            <p style="font-size: 44px;" class="title display-one">We are a GREY LABEL SOLUTION
+                            <p style="font-size: 40px;"  class="title display-one">We are a GREY LABEL SOLUTION
                                 <br>provider for Forex brokerage.
                             </p>
                         </div>
@@ -17,6 +17,7 @@
                 </div>
             </div>
         </div>
+        <!-- <span class="theme-gradient"></span> -->
 
         <div class="rwt-about-area rn-section-gap">
             <div class="container">
@@ -29,15 +30,11 @@
                     <div class="col-lg-7 mt_md--40 mt_sm--40">
                         <div class="content" data-sal="slide-left" data-sal-duration="800">
                             <div class="section-title">
-                                <h1 class="title">FX Greylabel Server<br>
-
-                                </h1>
-                                <p>With FX Greylabel Server, you can get a tailored Forex trading platform designed to fit your business needs.</p>
-
+                                <h1 class="title">FX Greylabel Server
+                                </h1><br>
+                                <p>With FX Greylabel Server, you can get a tailored Forex trading platform designed to fit your business needs.</p><br>
                                 <h2 class="title">FX Greylabel Server Includes:
-                                    <br>
-
-                                </h2>
+                                </h2><br>
                                 <p>GreylabelFX has supported many brokers in starting their Forex business. We understand that every broker is unique, which is why we offer flexible solutions for different business models.
                                 </p>
                                 <p>Our FX Greylabel Server platform includes powerful tools such as TradersRoom, Trade Copier, PAMM, MAMM, Bridge, and API to help you run your brokerage smoothly.
@@ -66,13 +63,9 @@
                             <h2 class="title">Grey Label Solution
                                 <br>
                                 <span class="header-caption">
-
                                 </span>
-                            </h2>
+                            </h2><br>
                             <p>Our Forex Grey Label Solution offers essential tools for your brokerage.
-
-
-
                             </p>
                             <ul class="feature-list">
                                 <li>
@@ -81,42 +74,33 @@
                                     </div>
                                     <div class="title-wrapper">
                                         <h3 class="title" style="font-size:20px;">FX Greylabel Server Manager</h3>
-
                                     </div>
                                 </li>
                                 <li>
                                     <div class="icon">
-
                                     </div>
                                     <div class="title-wrapper">
                                         <h3 class="title" style="font-size:20px;">Security: Forex, CFDs, Stocks, Crypto
                                         </h3>
-
                                     </div>
                                 </li>
                                 <li>
                                     <div class="icon">
-
                                     </div>
                                     <div class="title-wrapper">
                                         <h3 class="title" style="font-size:20px;">Groups: 3 groups with different spreads and commissions
-
                                         </h3>
-
                                     </div>
                                 </li>
                                 <li>
                                     <div class="icon">
-
                                     </div>
                                     <div class="title-wrapper">
                                         <h3 class="title" style="font-size:20px;">Custom Tools: Additional plugins available
                                         </h3>
-
                                     </div>
                                 </li>
                             </ul>
-
                         </div>
                         <p>GreylabelFX provides everything you need to grow your brokerage.</p>
                     </div>
@@ -136,8 +120,6 @@
 
         <div class="rn-service-area rn-section-gap">
             <div class="container">
-
-
                 <div class="row row--15 service-wrapper">
                     <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700">
                         <div
@@ -171,7 +153,7 @@
                                 </h2>
                                 <p class="description b1 color-gray mb--0">A simple solution for the onboarding process
                                     and managing a
-                                    variety of URs and affiliates</p>
+                                    variety of URs and affiliates</p><br>
                             </div>
                         </div>
                     </div>
@@ -218,7 +200,7 @@
                             <p class="description b1 color-gray mb--0">PAMM account managers can manage multiple
                                 accounts on the same platform; this simplifies their
                                 lives and makes them more efficient.
-                            </p>
+                            </p><br>
                         </div>
                     </div>
                 </div>
@@ -257,7 +239,7 @@
                                 traders to take slippage away from them,
                                 and Forex brokers can profit from slippage.
 
-                            </p>
+                            </p><br>
                         </div>
                     </div>
                 </div>
@@ -274,7 +256,7 @@
             </div>
         </div>
         <br><br>
-
+        <div class="container">
         <div class="rwt-split-area">
             <div class="wrapper">
                 <div class="rn-splite-style">
@@ -290,7 +272,7 @@
                                     <h2 class="title" data-sal="slide-up" data-sal-duration="700" data-sal-delay="100">
                                         Most Useful FOR YOU</h2>
                                     <h3 class="description" data-sal="slide-up" data-sal-duration="700"
-                                        data-sal-delay="300">Infrastructure</h3>
+                                        data-sal-delay="300">Infrastructure</h3><br>
                                     <ul class="split-list" data-sal="slide-up" data-sal-duration="700"
                                         data-sal-delay="20">
                                         <p>Get access to our robust global network coverage and the world's most
@@ -307,6 +289,8 @@
                 </div>
             </div>
         </div>
+        </div>
+        
         <br><br>
 
         <!-- <div class="container" style="padding-top:110px ;">

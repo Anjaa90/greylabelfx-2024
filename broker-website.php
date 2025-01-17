@@ -66,10 +66,10 @@
                         <div class="content">
                             <div class="inner">
                                <h2>Custom Forex Websites by GreylabelFX
-                            </h2>
+                            </h2><br>
                                 <p> <a href="https://greylabel-fx.com// " class="font-blod-color-title"> GreylabelFX</a>
                                     works with you to design a custom Forex website tailored to your business needs. Our websites are professional, durable, and user-friendly, designed to attract and engage customers.
-                                </p>
+                                </p><br>
                                 <p>We collaborate with your marketing and sales teams to create a unique site that reflects your brand and provides a seamless experience. From concept to launch, we ensure your website is fully functional and ready to support your brokerage.
                                 </p>
                                 <div class="about-btn mt--30"><a class="btn-default" href="about.php">About</a></div>
@@ -101,7 +101,7 @@
                                     <h3 class="title">
                                         <a href="#">Module Integration & Plugins
                                         </a>
-                                    </h3>
+                                    </h3><br>
                                     <p class="description b1 color-gray mb--0">We integrate various plugins and modules to make your website user-friendly and accessible.
                                     </p>
                                 </div>
@@ -120,9 +120,8 @@
                                     <h3 class="title">
                                         <a href="#">Simple Payment Method
                                         </a>
-                                    </h3>
+                                    </h3><br>
                                     <p class="description b1 color-gray mb--0"> Easy global payment processing with integrated merchant accounts.
-                                        .
                                     </p>
                                 </div>
                             </div>
@@ -140,7 +139,7 @@
                                     <h3 class="title">
                                         <a href="#">SEO Integration
                                         </a>
-                                    </h3>
+                                    </h3><br>
                                     <p class="description b1 color-gray mb--0">Full <a href="https://greylabel-fx.com//forex-seo.php"
                                         style="color: red;font-weight:bold;">SEO </a> module integration to improve website visibility and ranking</p>
                                 </div>
@@ -157,12 +156,9 @@
                                 <div class="content">
                                     <h3 class="title">
                                         <a href="#">Visitor Registration
-
                                         </a>
-                                    </h3>
+                                    </h3><br>
                                     <p class="description b1 color-gray mb--0">Allow users to sign up and stay connected with your organization.
-
-
                                     </p>
                                 </div>
                             </div>
@@ -178,13 +174,9 @@
                                 <div class="content">
                                     <h3 class="title">
                                         <a href="#">Live Chat Integration
-
                                         </a>
-                                    </h3>
+                                    </h3><br>
                                     <p class="description b1 color-gray mb--0">Instant customer support via live chat to enhance customer satisfaction.
-
-
-
                                     </p>
                                 </div>
                             </div>
@@ -200,13 +192,9 @@
                                 <div class="content">
                                     <h3 class="title">
                                         <a href="#">Instant Quotes
-
                                         </a>
-                                    </h3>
+                                    </h3><br>
                                     <p class="description b1 color-gray mb--0">Real-time currency rates through live quote plugins for smooth operations.
-
-
-
                                     </p>
                                 </div>
                             </div>
@@ -222,11 +210,9 @@
                                 <div class="content">
                                     <h3 class="title">
                                         <a href="#">Easy CMS Integration
-
                                         </a>
-                                    </h3>
+                                    </h3><br>
                                     <p class="description b1 color-gray mb--0"> Simplify content updates on your website with CMS integration.
-
                                     </p>
                                 </div>
                             </div>
@@ -242,12 +228,9 @@
                                 <div class="content">
                                     <h3 class="title">
                                         <a href="#">Social Media Connectivity
-
                                         </a>
-                                    </h3>
+                                    </h3><br>
                                     <p class="description b1 color-gray mb--0">Drive traffic to your website by connecting to popular social media platforms.
-
-
                                     </p>
                                 </div>
                             </div>
@@ -263,12 +246,9 @@
                                 <div class="content">
                                     <h3 class="title">
                                         <a href="#">FX Banners
-
                                         </a>
-                                    </h3>
+                                    </h3><br>
                                     <p class="description b1 color-gray mb--0">Promote products or share informative content with visible FX banners on your site.
-
-
                                     </p>
                                 </div>
                             </div>
@@ -284,12 +264,9 @@
                                 <div class="content">
                                     <h3 class="title">
                                         <a href="#">Custom Landing Pages
-
                                         </a>
-                                    </h3>
+                                    </h3><br>
                                     <p class="description b1 color-gray mb--0">Tailored landing pages designed to your specifications.
-
-
                                     </p>
                                 </div>
                             </div>

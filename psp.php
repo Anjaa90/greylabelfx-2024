@@ -30,7 +30,6 @@
                                 <div class="overlay-content">
                                     <div class="thumbnail"><img class="radius-small"
                                             src="assets/images/about/contactimage-2.png" alt="Corporate Image"></div>
-
                                 </div>
                             </div>
                             <div class="video-lightbox-wrapper"></div>
@@ -44,14 +43,12 @@
                                     Your Forex Brokerage
                                     </strong>
                                 </h2>
-
                                 <p>
                                     Forex Payment Gateways is an online payment system that integrates with your <span>
                                         <a href="https://greylabelfx.com/broker-crm.php"
                                             style="color: red;font-weight:bold">Forex CRM </a></span> and Trader's Room
                                     and can be used to make and receive payments for your clients.
-
-                                </p>
+                                </p><br>
                                 <p>It is the same process as with other payment gateways. You will need to enter some
                                     details, such as your credit/debit card number, expiry date, and CVV. Once the
                                     client has completed this, he can transfer money from his account to the broker's
@@ -66,31 +63,25 @@
                     <div class="col-lg-6">
                         <div class="content">
                             <div class="inner">
-
-
                                 <p>
                                     We have integrated reliable Forex Payment Gateways with <span> <a
                                             href="https://greylabelfx.com/"
                                             style="color: red;font-weight:bold">GreylabelFX </a></span> to ensure smooth
                                     transaction flows. This integration is based on security, customer experience, and
                                     payment acceptance worldwide and provides multiple payment options.
-
-
-                                </p>
+                                </p><br>
                                 <p>We underline that your customers can choose manual bank wire PSPs (or any other PSPs
                                     that require approval by the broker) that will take approximately 12-24 hour
                                     processing time. In contrast to the renowned auto PSPs, these PSPs provide smooth
                                     transactions in a trader's <span> <a
                                             href="https://greylabelfx.com/FX-greylabel.php"
                                             style="color: red;font-weight:bold">FX Greylabel accounts </a></span> .
-
-
-                                </p>
+                                </p><br>
                                 <p>Please note that you will need to apply to open a merchant account with any PSP to
                                     integrate into the CRM. If you are already registered with a PSP of your choice then
                                     GreyLabelFX can help in smooth optimization on your website.
-                                </p>
-                                <div class="about-btn mt--30">
+                                </p><br>
+                                <div class="about-btn ">
                                     For more Information <span> <a href="https://greylabelfx.com/contact.php"
                                             style="color: red;font-weight:bold">contact us </a></span> at <span> <a
                                             href="https://telegram.me/greylabelfx"
