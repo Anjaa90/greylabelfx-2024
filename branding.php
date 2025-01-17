@@ -8,7 +8,7 @@
                         <div class="inner pt--80 text-center" data-sal="slide-up" data-sal-duration="400"
                             data-sal-delay="150">
 
-                            <p class="title display-one" style="color: white;font-weight: bold;">Our Branding</p>
+                            <p class="title display-one" style="font-size:50px ;color: white;font-weight: bold;">Our Branding</p>
                         </div>
                     </div>
                 </div>
@@ -27,7 +27,7 @@
                         <div class="content" data-sal="slide-left" data-sal-duration="800">
                             <div class="section-title">
                                 <h1 class="title">GreylabelFX Branding Services <br>
-                                </h1>
+                                </h1><br>
                                 <p>Enhance your brokerage with our expert branding services, tailored to suit your specific needs.
                                 </p>
                                 <div class="read-more-btn mt--40">

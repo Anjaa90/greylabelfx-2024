@@ -29,15 +29,11 @@
                     <div class="col-lg-7 mt_md--40 mt_sm--40">
                         <div class="content" data-sal="slide-left" data-sal-duration="800">
                             <div class="section-title">
-                                <h1 class="title">FX Greylabel Server<br>
-
-                                </h1>
-                                <p>With FX Greylabel Server, you can get a tailored Forex trading platform designed to fit your business needs.</p>
-
+                                <h1 class="title">FX Greylabel Server
+                                </h1><br>
+                                <p>With FX Greylabel Server, you can get a tailored Forex trading platform designed to fit your business needs.</p><br>
                                 <h2 class="title">FX Greylabel Server Includes:
-                                    <br>
-
-                                </h2>
+                                </h2><br>
                                 <p>GreylabelFX has supported many brokers in starting their Forex business. We understand that every broker is unique, which is why we offer flexible solutions for different business models.
                                 </p>
                                 <p>Our FX Greylabel Server platform includes powerful tools such as TradersRoom, Trade Copier, PAMM, MAMM, Bridge, and API to help you run your brokerage smoothly.
@@ -66,13 +62,9 @@
                             <h2 class="title">Grey Label Solution
                                 <br>
                                 <span class="header-caption">
-
                                 </span>
-                            </h2>
+                            </h2><br>
                             <p>Our Forex Grey Label Solution offers essential tools for your brokerage.
-
-
-
                             </p>
                             <ul class="feature-list">
                                 <li>
@@ -81,42 +73,33 @@
                                     </div>
                                     <div class="title-wrapper">
                                         <h3 class="title" style="font-size:20px;">FX Greylabel Server Manager</h3>
-
                                     </div>
                                 </li>
                                 <li>
                                     <div class="icon">
-
                                     </div>
                                     <div class="title-wrapper">
                                         <h3 class="title" style="font-size:20px;">Security: Forex, CFDs, Stocks, Crypto
                                         </h3>
-
                                     </div>
                                 </li>
                                 <li>
                                     <div class="icon">
-
                                     </div>
                                     <div class="title-wrapper">
                                         <h3 class="title" style="font-size:20px;">Groups: 3 groups with different spreads and commissions
-
                                         </h3>
-
                                     </div>
                                 </li>
                                 <li>
                                     <div class="icon">
-
                                     </div>
                                     <div class="title-wrapper">
                                         <h3 class="title" style="font-size:20px;">Custom Tools: Additional plugins available
                                         </h3>
-
                                     </div>
                                 </li>
                             </ul>
-
                         </div>
                         <p>GreylabelFX provides everything you need to grow your brokerage.</p>
                     </div>
@@ -136,8 +119,6 @@
 
         <div class="rn-service-area rn-section-gap">
             <div class="container">
-
-
                 <div class="row row--15 service-wrapper">
                     <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700">
                         <div

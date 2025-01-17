@@ -83,7 +83,7 @@
                             <div class="content">
                                 <div class="inner">
                                     <h2>Company Incorporation with GreylabelFX
-                                    </h2>
+                                    </h2><br>
                                    <p>
                                     <span> <a  href="https://greylabel-fx.com//" style="color: red;font-weight:bold"> GreylabelFX </a></span> partners with global formation agents to help Forex businesses incorporate in the best-suited jurisdictions. Our expert team guides you through the process, offering banking, nominee, and virtual office services to ensure a smooth and professional setup.
                                     </p>
@@ -137,7 +137,7 @@
                             <div class="content">
                                 <div class="inner">
                                     <h2 class="subheading-titile-normal" style="font-size: 30px;">Establish Your Offshore Business Bank Account
-                                    </h2>
+                                    </h2><br>
                                    <p>
                                     In the Forex industry, daily transactions require a stable offshore business bank account. GreylabelFX helps you set up a bank account that meets your jurisdiction's requirements.
                                     </p>
