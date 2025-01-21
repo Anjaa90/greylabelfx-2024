@@ -35,7 +35,7 @@
                     <div class="col-lg-2 col-md-6 col-sm-6 col-12">
                         <div class="rn-footer-widget">
                             <div class="widget-menu-bottom">
-                                <h3 class="title"><a href="#">Pricing</a></h3>
+                                <h3 class="title"><a href="pricing.php">Pricing</a></h3>
 
                             </div>
                             <div class="widget-menu-bottom">
