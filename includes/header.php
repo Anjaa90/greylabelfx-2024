@@ -13,7 +13,9 @@
   <meta name="description" content="<?php echo $description ?> " />
   <meta name="keywords" content="<?php echo $keywords ?> " />
 
-  <link rel="icon" type="image/png" sizes="56x56" href="assets/images/favicon.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon.png">
+
 
   <!-- Open Graph Meta Tags -->
   <meta property="og:image" content="assets/images/favicon.png" />
