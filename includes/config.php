@@ -77,7 +77,7 @@ switch ($menuactive) {
         break;
 
     case 'FX_Greylabel_Singapore.php':
-        $title = "FX Greylabel Server Singapre - Forex Brokerage";
+        $title = "FX Greylabel Server Singapore - Forex Brokerage";
         $description = "GreyLabelFX offers FX Greylabel Server in Singapore for brokers to launch advanced platforms with minimal investment and powerful features.";
         break;
 
