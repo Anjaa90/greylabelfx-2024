@@ -12,8 +12,19 @@
   </title>
   <meta name="description" content="<?php echo $description ?> " />
   <meta name="keywords" content="<?php echo $keywords ?> " />
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
 
+  <link rel="icon" type="image/png" sizes="56x56" href="assets/images/favicon.png">
+
+  <!-- Open Graph Meta Tags -->
+  <meta property="og:image" content="assets/images/favicon.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta property="og:url" content="https://greylabelfx.com/" />
+        <meta property="og:type" content="website" />
+
+      <!-- Twitter Card Meta Tags -->
+        <meta name="twitter:image" content="assets/images/favicon.png" />
+        <meta name="twitter:card" content="summary_large_image" />
     <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
 
