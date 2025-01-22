@@ -14,7 +14,7 @@ if(isset($_POST['email'])) {
         echo "Please go back and fix these errors.<br /><br />";
         die();
     }
- 
+        
  
     // validation expected data exists
     if(!isset($_POST['name']) ||

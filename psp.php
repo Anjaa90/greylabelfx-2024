@@ -1,5 +1,4 @@
 <?php include ('includes/header.php');?>
-
         <div class="slider-area slider-style-1 variation-default height-850 bg_image bg_image--12"
             data-black-overlay="7">
             <div class="container">
