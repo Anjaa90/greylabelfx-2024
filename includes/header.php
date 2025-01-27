@@ -72,6 +72,9 @@
                     'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
         })(window, document, 'script', 'dataLayer', 'GTM-K5VSCQZZ');</script>
     <!-- End Google Tag Manager -->
+
+    <meta name="google-site-verification" content="8gbNAtqS2vFLhKNOzDTY3c2jM8sf5RyAmEGY9_dwpyk" />
+    
 </head>
 
 <header class="active-dark-mode">
