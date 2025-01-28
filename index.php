@@ -282,7 +282,7 @@
             </div>
 
             <div class="row row--15 service-wrapper">
-                <div class="col-lg-12 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700"
+                <div class="col-lg-12 col-12" data-sal="slide-up" data-sal-duration="700"
                     data-sal-delay="100">
                     <div class="service service__style--1 bg-color-blackest radius mt--25 text-center rbt-border">
                         <div class="icon">
