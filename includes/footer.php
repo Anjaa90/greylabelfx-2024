@@ -88,6 +88,7 @@
                                         <li><a href="FX_Greylabel_Africa.php">Africa</a></li>
                                         <li><a href="FX_Greylabel_Albania.php">Albania</a></li>
                                         <li><a href="FX_Greylabel_Algeria.php">Algeria</a></li>
+                                        <li><a href="FX_Greylabel_Taiwan.php">Taiwan</a></li>
                                     </ul>
                                 </div>
                             </div>

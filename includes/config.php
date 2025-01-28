@@ -95,6 +95,10 @@ switch ($menuactive) {
         $title = "FX Greylabel Server Algeria - Forex Brokerage";
         $description = "GreylabelFX offers premium FX Greylabel Server in Algeria, allowing brokers to launch cost-effective trading platforms without a full White label license.";
         break;
+    case 'FX_Greylabel_Taiwan.php':
+        $title = "FX Greylabel Server Taiwan - Forex Brokerage";
+        $description = "GreyLabelFX offers FX Greylabel Server in Taiwan for brokers to launch advanced platforms with minimal investment and powerful features.";
+        break;
 
     case 'privacy-policy.php':
         $title = "Privacy Policy| FX Greylabel Server Grey Label | Whitelabel";

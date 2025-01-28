@@ -1,4 +1,4 @@
-<?php include ('config.php');?>
+<?php include('config.php'); ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -9,56 +9,60 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
         <?php echo $title ?>
-  </title>
-  <meta name="description" content="<?php echo $description ?> " />
-  <meta name="keywords" content="<?php echo $keywords ?> " />
+    </title>
+    <meta name="description" content="<?php echo $description ?> " />
+    <meta name="keywords" content="<?php echo $keywords ?> " />
 
-  <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon.png">
 
 
-  <!-- Open Graph Meta Tags -->
-  <meta property="og:image" content="assets/images/favicon.png" />
-        <meta property="og:image:width" content="1200" />
-        <meta property="og:image:height" content="630" />
-        <meta property="og:url" content="https://greylabelfx.com/" />
-        <meta property="og:type" content="website" />
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:image" content="assets/images/favicon.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:url" content="https://greylabelfx.com/" />
+    <meta property="og:type" content="website" />
 
-      <!-- Twitter Card Meta Tags -->
-        <meta name="twitter:image" content="assets/images/favicon.png" />
-        <meta name="twitter:card" content="summary_large_image" />
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:image" content="assets/images/favicon.png" />
+    <meta name="twitter:card" content="summary_large_image" />
     <!-- Bootstrap CSS -->
-<link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
 
-<!-- Animation CSS -->
-<link rel="stylesheet" href="assets/css/plugins/animation.css">
+    <!-- Animation CSS -->
+    <link rel="stylesheet" href="assets/css/plugins/animation.css">
 
-<!-- Feature CSS -->
-<link rel="stylesheet" href="assets/css/plugins/feature.css">
+    <!-- Feature CSS -->
+    <link rel="stylesheet" href="assets/css/plugins/feature.css">
 
-<!-- Magnify CSS -->
-<link rel="stylesheet" href="assets/css/plugins/magnify.min.css">
+    <!-- Magnify CSS -->
+    <link rel="stylesheet" href="assets/css/plugins/magnify.min.css">
 
-<!-- Slick Carousel -->
-<link rel="stylesheet" href="assets/css/plugins/slick.css">
-<link rel="stylesheet" href="assets/css/plugins/slick-theme.css">
+    <!-- Slick Carousel -->
+    <link rel="stylesheet" href="assets/css/plugins/slick.css">
+    <link rel="stylesheet" href="assets/css/plugins/slick-theme.css">
 
-<!-- Lightbox -->
-<link rel="stylesheet" href="assets/css/plugins/lightbox.css">
+    <!-- Lightbox -->
+    <link rel="stylesheet" href="assets/css/plugins/lightbox.css">
 
-<!-- Main Style -->
-<link rel="stylesheet" href="assets/css/style.css">
+    <!-- Main Style -->
+    <link rel="stylesheet" href="assets/css/style.css">
 
-<!-- Font Awesome -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-<!-- Google Fonts -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
 
-<!-- Additional Style (Custom CSS) -->
-<link rel="stylesheet" href="style.css">
+    <!-- Additional Style (Custom CSS) -->
+    <link rel="stylesheet" href="style.css">
 
 
 
@@ -74,7 +78,7 @@
     <!-- End Google Tag Manager -->
 
     <meta name="google-site-verification" content="8gbNAtqS2vFLhKNOzDTY3c2jM8sf5RyAmEGY9_dwpyk" />
-    
+
 </head>
 
 <header class="active-dark-mode">
@@ -97,8 +101,9 @@
                                 </p>
                                 <p>
                                     <i class="feather-telegram"></i>
-                                    <a href="https://telegram.me/greylabelfx"><img loading="lazy" src="assets/images/2022-06-05.webp"
-                                            alt="Telegram" width="20" height="20"></a>
+                                    <a href="https://telegram.me/greylabelfx"><img loading="lazy"
+                                            src="assets/images/2022-06-05.webp" alt="Telegram" width="20"
+                                            height="20"></a>
 
                                 </p>
 
@@ -167,7 +172,8 @@
                                             <ul class="submenu">
 
                                                 <li><a href="FX-greylabel.php">FX Greylabel Server <span
-                                                            style="color: red; font-size:16px; font-weight: 600; ">(Hot)</span></a></li>
+                                                            style="color: red; font-size:16px; font-weight: 600; ">(Hot)</span></a>
+                                                </li>
                                                 <li><a href="broker-crm.php">BrokerCRM</a></li>
                                                 <li><a href="psp.php">PSP</a></li>
                                             </ul>
@@ -206,6 +212,8 @@
                                                 </li>
                                                 <li><a href="FX_Greylabel_Algeria.php">Algeria</a>
                                                 </li>
+                                                <li><a href="FX_Greylabel_Taiwan.php">Taiwan</a>
+                                                </li>
                                             </ul>
                                         </ul>
                                     </li>
@@ -235,71 +243,90 @@
 
 
 <div class="popup-mobile-menu">
-            <div class="inner">
-                <div class="header-top">
-                    <div class="logo">
-                        <a href="index.php">
-                            <img class="logo-light" src="assets/images/logo/white-01.webp" alt="Corporate Logo">
-                            <img class="logo-dark" src="assets/images/logo/black-01.png" alt="Corporate Logo">
-                        </a>
-                    </div>
-                    <div class="close-menu">
-                        <button class="close-button">
-                            <i class="feather-x"></i>
-                        </button>
-                    </div>
-                </div>
-                <ul class="mainmenu">
-                    <li><a href="index.php">Home</a>
-
-                    </li>
-                    <li class="has-dropdown has-menu-child-item">
-                        <a href="about.php">About</a>
-                        <ul class="submenu">
-                        <li><a href="our-servers.php">Our Servers</a></li>
-                        </ul>
-                    </li>
-
-                    <li class="has-droupdown has-menu-child-item"><a href="#">FX Solutions</a>
-
-                        <ul class="submenu">
-                            
-                            <li><a href="FX-greylabel.php">FX Greylabel Server<span
-                                        >( Hot )</span></a></li>
-                            <li><a href="broker-crm.php">BrokerCRM</a></li>
-                            <li><a href="psp.php">PSP</a></li>
-                        </ul>
-
-                    </li>
-                    <li><a href="pricing.php">Pricing</a>
-
-
-                </li>
-
-                    </li>
-                    <li class="has-droupdown has-menu-child-item"><a href="#">Digital</a>
-
-                        <ul class="submenu">
-                            <li><a href="broker-website.php">BrokerWebsite</a></li>
-                            <li><a href="forex-seo.php">Forex SEO</a></li>
-                            <li><a href="branding.php">Branding</a></li>
-                        </ul>
-
-                    </li>
-                    <li><a href="service.php">Corporate Services</a>
-
-                    </li>
-
-                    
-                    <li><a href="#">Blog</a></li>
-                </ul>
-
+    <div class="inner">
+        <div class="header-top">
+            <div class="logo">
+                <a href="index.php">
+                    <img class="logo-light" src="assets/images/logo/white-01.webp" alt="Corporate Logo">
+                    <img class="logo-dark" src="assets/images/logo/black-01.png" alt="Corporate Logo">
+                </a>
+            </div>
+            <div class="close-menu">
+                <button class="close-button">
+                    <i class="feather-x"></i>
+                </button>
             </div>
         </div>
+        <ul class="mainmenu">
+            <li><a href="index.php">Home</a>
+
+            </li>
+            <li class="has-dropdown has-menu-child-item">
+                <a href="about.php">About</a>
+                <ul class="submenu">
+                    <li><a href="our-servers.php">Our Servers</a></li>
+                </ul>
+            </li>
+
+            <li class="has-droupdown has-menu-child-item"><a href="#">FX Solutions</a>
+
+                <ul class="submenu">
+
+                    <li><a href="FX-greylabel.php">FX Greylabel Server<span>( Hot )</span></a></li>
+                    <li><a href="broker-crm.php">BrokerCRM</a></li>
+                    <li><a href="psp.php">PSP</a></li>
+                </ul>
+
+            </li>
+            <li><a href="pricing.php">Pricing</a>
+
+
+            </li>
+
+            </li>
+            <li class="has-droupdown has-menu-child-item"><a href="#">Digital</a>
+
+                <ul class="submenu">
+                    <li><a href="broker-website.php">BrokerWebsite</a></li>
+                    <li><a href="forex-seo.php">Forex SEO</a></li>
+                    <li><a href="branding.php">Branding</a></li>
+                </ul>
+
+            </li>
+            <li><a href="service.php">Corporate Services</a>
+
+            </li>
+            <li class="has-droupdown has-menu-child-item"><a href="#">Servers</a>
+
+                <ul class="submenu">
+                    <li><a href="FX_Greylabel_Turkey.php">Turkey</a></li>
+                    <li><a href="FX_Greylabel_China.php">China</a></li>
+                    <li><a href="FX_Greylabel_UAE.php">UAE</a></li>
+                    <li><a href="FX_Greylabel_Malaysia.php">Malaysia</a>
+                    </li>
+                    <li><a href="FX_Greylabel_Singapore.php">Singapore</a>
+                    </li>
+                    <li><a href="FX_Greylabel_Africa.php">Africa</a></li>
+                    <li><a href="FX_Greylabel_Albania.php">Albania</a>
+                    </li>
+                    <li><a href="FX_Greylabel_Algeria.php">Algeria</a>
+                    </li>
+                    <li><a href="FX_Greylabel_Taiwan.php">Taiwan</a>
+                    </li>
+                </ul>
+
+            </li>
+
+
+            <li><a href="#">Blog</a></li>
+        </ul>
+
+    </div>
+</div>
 
 
 
-        <!-- <div class="section " style="background-color: rgb(20, 20, 20);box-shadow: rgb(24, 24, 24) 0px 4px 12px;">
+<!-- <div class="section " style="background-color: rgb(20, 20, 20);box-shadow: rgb(24, 24, 24) 0px 4px 12px;">
             <div class="container">
                 <div class="row">
                     <div class="col-12">
@@ -316,8 +343,7 @@
             </div>
         </div> -->
 
-        <div>
-            <div class="rn-gradient-circle"></div>
-            <div class="rn-gradient-circle theme-pink"></div>
-        </div>
-
+<div>
+    <div class="rn-gradient-circle"></div>
+    <div class="rn-gradient-circle theme-pink"></div>
+</div>
