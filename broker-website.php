@@ -163,7 +163,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> 
                     <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700"
                         data-sal-delay="200">
                         <div class="service service__style--2 text-center">

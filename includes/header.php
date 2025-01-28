@@ -145,7 +145,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-lg-9 col-md-6 col-8 position-static">
+                    <div class="col-lg-9 col-md-6 col-8 position-static ">
                         <div class="header-right">
                             <nav class="mainmenu-nav d-none d-lg-block ">
                                 <ul class="mainmenu">
@@ -229,7 +229,10 @@
                     </div>
                 </div>
             </div>
+
+
 </header>
+
 
 <div class="popup-mobile-menu">
             <div class="inner">
@@ -291,15 +294,10 @@
                     <li><a href="#">Blog</a></li>
                 </ul>
 
-
-
-
-
-
-
-
             </div>
         </div>
+
+
 
         <!-- <div class="section " style="background-color: rgb(20, 20, 20);box-shadow: rgb(24, 24, 24) 0px 4px 12px;">
             <div class="container">
@@ -322,3 +320,4 @@
             <div class="rn-gradient-circle"></div>
             <div class="rn-gradient-circle theme-pink"></div>
         </div>
+
