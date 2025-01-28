@@ -152,7 +152,7 @@
                     <div class="service service__style--1 bg-color-blackest radius mt--25 text-center rbt-border-none"
                         style="height: 92%;">
                         <div class="icon">
-                            <img loading="lazy" src="assets/images/services/virtual.png" alt="virtual events" style="height:50px;">
+                            <img loading="lazy" src="assets/images/services/pamms.png" alt="virtual events" style="height:50px;">
                         </div>
                         <div class="content">
                             <h3 class="title w-600" >Custom Branding
