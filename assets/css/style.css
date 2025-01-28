@@ -16421,6 +16421,34 @@ color: black;
         right:-130px;
     }
 }
+
+    @media (max-width: 1024px) {
+        
+        /* Adjust navigation section */
+        .col-lg-9 {
+            width: 100%;
+            margin-top: -80px;
+            margin-left: 20px;
+            font-size: 16px;
+        }
+        .logo{
+            width: 50%;
+        }
+        .popup {
+            width: 60%;
+            padding: 2px;
+        }
+    
+        h3 {
+            font-size: 16px; 
+        }
+    
+        ul {
+            font-size: 12px; 
+        }
+        
+    }
+    
 .heading-titile-normal{
     font-weight: normal;
     font-size: 45px;
