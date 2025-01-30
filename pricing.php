@@ -272,7 +272,7 @@
 
 
 <!-- Start Top To Bottom Area  -->
-<div class="rn-back-top">
+<div class="rn-back-top mb-5">
     <i class="feather-arrow-up"></i>
 </div>
 <!-- End Top To Bottom Area  -->
