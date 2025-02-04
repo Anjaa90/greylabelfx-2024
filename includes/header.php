@@ -27,25 +27,33 @@
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:image" content="assets/images/favicon.png" />
     <meta name="twitter:card" content="summary_large_image" />
+    
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
+    <!-- <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css"> -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css">
 
     <!-- Animation CSS -->
-    <link rel="stylesheet" href="assets/css/plugins/animation.css">
+    <!-- <link rel="stylesheet" href="assets/css/plugins/animation.css"> -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css">
 
     <!-- Feature CSS -->
     <link rel="stylesheet" href="assets/css/plugins/feature.css">
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/feature.css"> -->
 
     <!-- Magnify CSS -->
-    <link rel="stylesheet" href="assets/css/plugins/magnify.min.css">
+    <!-- <link rel="stylesheet" href="assets/css/plugins/magnify.min.css"> -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/magnific-popup@1.1.0/dist/magnific-popup.min.css">
 
     <!-- Slick Carousel -->
-    <link rel="stylesheet" href="assets/css/plugins/slick.css">
-    <link rel="stylesheet" href="assets/css/plugins/slick-theme.css">
+    <!-- <link rel="stylesheet" href="assets/css/plugins/slick.css">
+    <link rel="stylesheet" href="assets/css/plugins/slick-theme.css"> -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css">
 
     <!-- Lightbox -->
-    <link rel="stylesheet" href="assets/css/plugins/lightbox.css">
-
+    <!-- <link rel="stylesheet" href="assets/css/plugins/lightbox.css"> -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightbox2@2.11.3/dist/css/lightbox.min.css">
+    
     <!-- Main Style -->
     <link rel="stylesheet" href="assets/css/style.css">
 
