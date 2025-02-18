@@ -221,6 +221,30 @@
                             </ul>
                             <div class="cta"><a href="contact.php" class="btn">CONTACT US</a></div>
                         </div>
+
+                        <!-- Updated Pricing Card 3 -->
+                        <div class="pricing-card">
+                            <h3 class="plan-title">FX Greylabel Server- Branded</h3>
+                            <div class="price"><span class="currency">$</span>4250 PER MONTH</span></div>
+                            <p style="color: #fff; font-size: 22px;">Setup Fee $0</p>
+                            <ul class="features">
+                               
+                                <li>Groups <span>Up to 8</span></li>
+                                <li>Managers <span>Up to 4</span></li>
+                                <li>Clients <span>Up to 500</span></li>
+                                <li>Symbols <span>150+</span></li>
+                                <li>API Access <span>Chargeable</span></li>
+                                <li class="text-white">CRM <span>Additional</span></li>
+                                <li class="text-white">Website</li>
+                                <li class="text-white">Copy Trading App</li>
+                                <li class="text-white">Liquidity Bridge</li>
+                            </ul>
+                            <div class="cta"><a href="contact.php" class="btn">ENQUIRE NOW</a></div>       
+                        </div>
+
+                    </div>
+                    <div class="text-center  pt-4">
+                        <p style="font-size:20px;" class="text-white">Trade with flexibility using any liquidity provider of your choice!</p>
                     </div>
                 </div>
             </div>
