@@ -1,121 +1,127 @@
-<?php include ('includes/header.php');?>
-        <div class="slider-area slider-style-1 variation-default height-850 bg_image bg_image--12"
-            data-black-overlay="7">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="inner pt--80 text-center" data-sal="slide-up" data-sal-duration="400"
-                            data-sal-delay="150">
+<?php include('includes/header.php'); ?>
+<div class="slider-area slider-style-1 variation-default height-850 bg_image bg_image--12" data-black-overlay="7">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="inner pt--80 text-center" data-sal="slide-up" data-sal-duration="400" data-sal-delay="150">
 
-                            <h1 class="title display-one">FX Greylabel Server in Taiwan</h1>
+                    <h1 class="title display-one">FX Greylabel Server in Taiwan</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="rbt-separator-mid">
+    <div class="container">
+        <hr class="rbt-separator m-0">
+    </div>
+</div>
+
+<div class="about-area about-style-4 rn-section-gap">
+    <div class="container">
+        <div class="row row--40 align-items-center">
+            <div class="col-lg-6">
+                <div class="video-btn">
+                    <div class="video-popup icon-center">
+                        <div class="overlay-content">
+                            <div class="thumbnail"><img class="radius-small" src="assets\images\server\TaiwanFlag.png"
+                                    alt="Corporate Image"></div>
+
                         </div>
+                    </div>
+                    <div class="video-lightbox-wrapper"></div>
+                </div>
+            </div>
+            <div class="col-lg-6 mt_md--40 mt_sm--40">
+                <div class="content">
+                    <div class="inner">
+
+                        <h2 class="title">
+                            FX Grey Label Solutions in Taiwan by GreyLabelFX
+                            </strong>
+                            </h1>
+                            <p>GreyLabelFX offers tailored FX Grey Label solutions in Taiwan, enabling brokers to launch
+                                trading platforms with advanced features without the need for a full FX Grey label
+                                Server license. The FX Greylabel Server is a global multi-asset platform supporting
+                                forex, stocks, commodities, and futures.
+                            </p>
+
+
                     </div>
                 </div>
             </div>
         </div>
+    </div>
+</div>
 
-        <div class="rbt-separator-mid">
-            <div class="container">
-                <hr class="rbt-separator m-0">
-            </div>
-        </div>
+<div class="rn-service-area rn-section-gap">
+    <div class="container">
+        <div class="row row--15 service-wrapper">
 
-        <div class="about-area about-style-4 rn-section-gap">
-            <div class="container">
-                <div class="row row--40 align-items-center">
-                    <div class="col-lg-6">
-                        <div class="video-btn">
-                            <div class="video-popup icon-center">
-                                <div class="overlay-content">
-                                    <div class="thumbnail"><img class="radius-small"
-                                            src="assets\images\server\TaiwanFlag.png" alt="Corporate Image"></div>
 
-                                </div>
-                            </div>
-                            <div class="video-lightbox-wrapper"></div>
-                        </div>
+            <h2 class="heading-titile-normal text-center">
+                Why Choose FX Grey Label in Taiwan?
+                </strong>
+            </h2>
+            <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700">
+                <div class="service service__style--1 bg-color-blackest radius mt--25 text-center rbt-border-none"
+                    style="height: 92%;">
+                    <div class="icon">
+                        <img loading="lazy" src="assets/images/services/trader.png" alt="trader" style="height:50px;">
                     </div>
-                    <div class="col-lg-6 mt_md--40 mt_sm--40">
-                        <div class="content">
-                            <div class="inner">
+                    <div class="content">
+                        <h3 class="title w-600">Tailored Solutions
+                        </h3>
+                        <p class="description b1 color-gray mb--0">Customize your trading platform to meet the specific
+                            needs of your clients and market.
+                        </p>
+                    </div>
+                </div>
+            </div>
 
-                                <h2 class="title">
-                                FX Grey Label Solutions in Taiwan by GreyLabelFX
-                                    </strong>
-                                </h1>
-                                <p>GreyLabelFX offers tailored FX Grey Label solutions in Taiwan, enabling brokers to launch trading platforms with advanced features without the need for a full FX Grey label Server license. The FX Greylabel Server is a global multi-asset platform supporting forex, stocks, commodities, and futures.
-                                </p>
+            <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700"
+                data-sal-delay="100">
+                <div class="service service__style--1 bg-color-blackest radius mt--25 text-center rbt-border-none"
+                    style="height: 92%;">
+                    <div class="icon">
+                        <img loading="lazy" src="assets/images/services/team.png" alt=" team image"
+                            style="height:50px;">
+                    </div>
+                    <div class="content">
+                        <h3 class="title w-600">Cost-Effective
+                        </h3>
+                        <p class="description b1 color-gray mb--0"> Launch with advanced features without the need for a
+                            full FX Grey label Server license.</p>
+                    </div>
+                </div>
+            </div>
 
-                                
-                            </div>
-                        </div>
+            <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700"
+                data-sal-delay="200">
+                <div class="service service__style--1 bg-color-blackest radius mt--25 text-center rbt-border-none"
+                    style="height: 92%;">
+                    <div class="icon">
+                        <img loading="lazy" src="assets/images/services/trade-copier.png" alt="trade copier image"
+                            style="height:50px;">
+                    </div>
+                    <div class="content">
+                        <h3 class="title w-600">Easy Integration
+                        </h3>
+                        <p class="description b1 color-gray mb--0">Seamlessly integrate advanced tools and features into
+                            your platform for enhanced trading experience.
+
+                        </p>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
+</div>
 
-        <div class="rn-service-area rn-section-gap">
-            <div class="container">
-                <div class="row row--15 service-wrapper">
-
-
-                    <h2 class="heading-titile-normal text-center">
-                        Why Choose FX Grey Label in Taiwan?
-                        </strong>
-                    </h2>
-                    <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700">
-                        <div class="service service__style--1 bg-color-blackest radius mt--25 text-center rbt-border-none"
-                            style="height: 92%;">
-                            <div class="icon">
-                                <img loading="lazy" src="assets/images/services/trader.png" alt="trader" style="height:50px;">
-                            </div>
-                            <div class="content">
-                                <h3 class="title w-600">Tailored Solutions
-                                </h3>
-                                <p class="description b1 color-gray mb--0">Customize your trading platform to meet the specific needs of your clients and market.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700"
-                        data-sal-delay="100">
-                        <div class="service service__style--1 bg-color-blackest radius mt--25 text-center rbt-border-none"
-                            style="height: 92%;">
-                            <div class="icon">
-                                <img loading="lazy" src="assets/images/services/team.png" alt=" team image" style="height:50px;">
-                            </div>
-                            <div class="content">
-                                <h3 class="title w-600">Cost-Effective
-                                </h3>
-                                <p class="description b1 color-gray mb--0"> Launch with advanced features without the need for a full FX Grey label Server license.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700"
-                        data-sal-delay="200">
-                        <div class="service service__style--1 bg-color-blackest radius mt--25 text-center rbt-border-none"
-                            style="height: 92%;">
-                            <div class="icon">
-                                <img loading="lazy" src="assets/images/services/trade-copier.png" alt="trade copier image" style="height:50px;">
-                            </div>
-                            <div class="content">
-                                <h3 class="title w-600">Easy Integration
-                                </h3>
-                                <p class="description b1 color-gray mb--0">Seamlessly integrate advanced tools and features into your platform for enhanced trading experience.
-
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="container">
-            <div class="row row--15 service-wrapper">
-                <!-- <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700">
+<div class="container">
+    <div class="row row--15 service-wrapper">
+        <!-- <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700">
                     <div class="service service__style--1 bg-color-blackest radius mt--25 text-center rbt-border-none"
                         style="height: 92%;">
                         <div class="icon">
@@ -131,226 +137,255 @@
                     </div>
                 </div> -->
 
-                <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700"
-                    data-sal-delay="200">
-                    <div class="service service__style--1 bg-color-blackest radius mt--25 text-center rbt-border-none"
-                        style="height: 92%;">
-                        <div class="icon">
-                            <img loading="lazy" src="assets/images/services/virtual.png" alt="virtual events" style="height:50px;">
-                        </div>
-                        <div class="content">
-                            <h3 class="title w-600" >Scalable
-                            </h3>
-                            <p class="description b1 color-gray mb--0"> Flexible to scale as your business grows, accommodating expanding client demands.
-
-                            </p>
-                        </div>
-                    </div>
+        <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700" data-sal-delay="200">
+            <div class="service service__style--1 bg-color-blackest radius mt--25 text-center rbt-border-none"
+                style="height: 92%;">
+                <div class="icon">
+                    <img loading="lazy" src="assets/images/services/virtual.png" alt="virtual events"
+                        style="height:50px;">
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700"
-                    data-sal-delay="200">
-                    <div class="service service__style--1 bg-color-blackest radius mt--25 text-center rbt-border-none"
-                        style="height: 92%;">
-                        <div class="icon">
-                            <img loading="lazy" src="assets/images/services/pamms.png" alt="virtual events" style="height:50px;">
-                        </div>
-                        <div class="content">
-                            <h3 class="title w-600" >Custom Branding
-                            </h3>
-                            <p class="description b1 color-gray mb--0"> FX Grey Label in Taiwan lets you personalize your trading platform with custom branding for a unique, seamless experience.
-                            </p>
-                        </div>
-                    </div>
+                <div class="content">
+                    <h3 class="title w-600">Scalable
+                    </h3>
+                    <p class="description b1 color-gray mb--0"> Flexible to scale as your business grows, accommodating
+                        expanding client demands.
+
+                    </p>
                 </div>
             </div>
-            <br>
-            <p>Taiwan's growing trading market offers significant opportunities. GreyLabelFX provides hassle-free setup, technology integration, and regulatory support to help brokers succeed in this dynamic market.
-            </p>
         </div>
-
-
-        <br><br>
-        <!-- Start Pricing Area  -->
-        <div class="main-content">
-            <!-- Start Pricing Style-1  -->
-            <div class="pricing-section">
-                <div class="container">
-                    <div class="section-title text-center">
-                        <h2>FX Greylabel Server Forex Services</h2>
-                        <p>Our FX Greylabel Server Forex Broker Services Comprehensive Range of Offerings</p>
-                    </div>
-            
-                    <div class="pricing-cards">
-                        <!-- Updated Pricing Card 1 -->
-                        <div class="pricing-card">
-                            <h3 class="plan-title">FX Greylabel Server-Generic</h3>
-                            <div class="price"><span class="currency">$</span>500 <span class="period">PER MONTH</span></div>
-                            <ul class="features">
-                                <li style="color: #fff; font-size: 22px;">Setup Fee $0</li>
-                                <li>Groups <span>2</span></li>
-                                <li>Managers <span>2</span></li>
-                                <li>Clients <span>300</span></li>
-                                <li>API Access <span>No</span></li>
-                                <li>CRM <span>Available - Extra</span></li>
-                            </ul>
-                            <br>
-                            <div class="cta"><a href="contact.php" class="btn">CONTACT US</a></div>
-                        </div>
-            
-                        <!-- Updated Pricing Card 2 -->
-                        <div class="pricing-card">
-                            <h3 class="plan-title">FX Greylabel Server-Branded</h3>
-                            <div class="price"><span class="currency">$</span>2500 <span class="period">PER MONTH</span></div>
-                            <ul class="features">
-                                <li style="color: #fff; font-size: 22px;">Setup Fee $0</li>
-                                <li>Groups <span>Up to 8</span></li>
-                                <li>Managers <span>Up to 4</span></li>
-                                <li>Clients <span>Up to 500</span></li>
-                                <li>Symbols <span>150+</span></li>
-                                <li>API Access <span>Chargeable</span></li>
-                                <li>CRM <span>Additional</span></li>
-                            </ul>
-                            <div class="cta"><a href="contact.php" class="btn">CONTACT US</a></div>
-                        </div>
-
-                        <!-- Updated Pricing Card 3 -->
-                        <div class="pricing-card">
-                            <h3 class="plan-title">FX Greylabel Server- Branded</h3>
-                            <div class="price"><span class="currency">$</span>4250 PER MONTH</span></div>
-                            <p style="color: #fff; font-size: 22px;">Setup Fee $0</p>
-                            <ul class="features">
-                               
-                                <li>Groups <span>Up to 8</span></li>
-                                <li>Managers <span>Up to 4</span></li>
-                                <li>Clients <span>Up to 500</span></li>
-                                <li>Symbols <span>150+</span></li>
-                                <li>API Access <span>Chargeable</span></li>
-                                <li class="text-white">CRM <span>Additional</span></li>
-                                <li class="text-white">Website</li>
-                                <li class="text-white">Copy Trading App</li>
-                                <li class="text-white">Liquidity Bridge</li>
-                            </ul>
-                            <div class="cta"><a href="contact.php" class="btn">ENQUIRE NOW</a></div>       
-                        </div>
-                    </div>
-                    <div class="text-center  pt-4">
-                        <p style="font-size:20px;" class="text-white">Trade with flexibility using any liquidity provider of your choice!</p>
-                    </div>
+        <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-sal="slide-up" data-sal-duration="700" data-sal-delay="200">
+            <div class="service service__style--1 bg-color-blackest radius mt--25 text-center rbt-border-none"
+                style="height: 92%;">
+                <div class="icon">
+                    <img loading="lazy" src="assets/images/services/pamms.png" alt="virtual events"
+                        style="height:50px;">
+                </div>
+                <div class="content">
+                    <h3 class="title w-600">Custom Branding
+                    </h3>
+                    <p class="description b1 color-gray mb--0"> FX Grey Label in Taiwan lets you personalize your
+                        trading platform with custom branding for a unique, seamless experience.
+                    </p>
                 </div>
             </div>
-            
-<style>
-.btn{
-        color: #ff0000;
-    }
-   /* Pricing Section */
-.pricing-section {
-   
-    padding: 40px 0;
-}
+        </div>
+    </div>
+    <br>
+    <p>Taiwan's growing trading market offers significant opportunities. GreyLabelFX provides hassle-free setup,
+        technology integration, and regulatory support to help brokers succeed in this dynamic market.
+    </p>
+</div>
 
-.pricing-section .container {
-    max-width: 1200px;
-    margin: auto;
-    padding: 50px;
-    text-align: center;
-}
 
-.pricing-section .section-title h2 {
-    font-size: 3.5rem;
-    margin-bottom: 10px;
-    color: #ffffff;
-}
+<br><br>
+<!-- Start Pricing Area  -->
+<div class="main-content">
+    <!-- Start Pricing Style-1  -->
+    <div class="pricing-section">
+        <div class="container">
+            <div class="section-title text-center">
+                <h2>FX Greylabel Server Forex Services</h2>
+                <p>Our FX Greylabel Server Forex Broker Services Comprehensive Range of Offerings</p>
+            </div>
 
-.pricing-section .section-title p {
-    font-size: 1.5rem;
-    color: #aaa;
-    margin-bottom: 40px;
-}
+            <div class="pricing-cards">
+                <!-- Updated Pricing Card 1 -->
+                <div class="pricing-card">
+                    <h3 class="plan-title">FX Greylabel Server-Generic</h3>
+                    <div class="price"><span class="currency">$</span>500 <span class="period">PER MONTH</span></div>
+                    <ul class="features">
+                        <li style="color: #fff; font-size: 22px;">Setup Fee $0</li>
+                        <li>Groups <span>2</span></li>
+                        <li>Managers <span>2</span></li>
+                        <li>Clients <span>300</span></li>
+                        <li>API Access <span>No</span></li>
+                        <li>CRM <span>Available - Extra</span></li>
+                    </ul>
+                    <br>
+                    <div class="cta"><a href="contact.php" class="btn">CONTACT US</a></div>
+                </div>
 
-/* Pricing Cards */
-.pricing-section .pricing-cards {
-    display: flex;
-    justify-content: space-around;
-    gap: 60px;
-    flex-wrap: wrap;
-}
+                <!-- Updated Pricing Card 2 -->
+                <div class="pricing-card">
+                    <h3 class="plan-title">FX Greylabel Server-Branded</h3>
+                    <div class="price"><span class="currency">$</span>2500 <span class="period">PER MONTH</span></div>
+                    <ul class="features">
+                        <li style="color: #fff; font-size: 22px;">Setup Fee $0</li>
+                        <li>Groups <span>Up to 8</span></li>
+                        <li>Managers <span>Up to 4</span></li>
+                        <li>Clients <span>Up to 500</span></li>
+                        <li>Symbols <span>150+</span></li>
+                        <li>API Access <span>Chargeable</span></li>
+                        <li>CRM <span>Additional</span></li>
+                    </ul>
+                    <div class="cta"><a href="contact.php" class="btn">CONTACT US</a></div>
+                </div>
 
-.pricing-section .pricing-card {
-    
-    padding: 20px;
-    border-radius: 8px;
-    width: 100%;
-    max-width: 300px;
-    text-align: left;
-    position: relative;
-    color: #ffffff;
-}
+                <!-- Updated Pricing Card 3 -->
+                <div class="pricing-card">
+                    <h3 class="plan-title">FX Greylabel Server- Branded</h3>
+                    <div class="price"><span class="currency">$</span>4250 PER MONTH</span></div>
+                    <p style="color: #fff; font-size: 22px;">Setup Fee $0</p>
+                    <ul class="features">
 
-.pricing-section .pricing-card.best-sale::before {
-    content: "Best Sale";
-    position: absolute;
-    top: -10px;
-    right: -10px;
-    background-color: #b00000;
-    color: #fff;
-    padding: 5px 10px;
-    font-size: 0.8rem;
-    font-weight: bold;
-    transform: rotate(45deg);
-}
+                        <li>Groups <span>Up to 8</span></li>
+                        <li>Managers <span>Up to 4</span></li>
+                        <li>Clients <span>Up to 500</span></li>
+                        <li>Symbols <span>150+</span></li>
+                        <li>API Access <span>Chargeable</span></li>
+                        <!-- Free Features -->
+                        <li class="free-feature text-white">CRM <span class="badge">Free</span></li>
+                        <li class="free-feature text-white">Website <span class="badge">Free</span></li>
+                        <li class="free-feature text-white">Copy Trading App <span class="badge">Free</span></li>
+                        <li class="free-feature text-white">Liquidity Bridge <span class="badge">Free</span></li>
+                    </ul>
+                    <div class="cta"><a href="contact.php" class="btn">ENQUIRE NOW</a></div>
+                </div>
+            </div>
+            <div class="text-center  pt-4">
+                <p style="font-size:20px;" class="text-white">Trade with flexibility using any liquidity provider of
+                    your choice!</p>
+            </div>
+        </div>
+    </div>
 
-/* Plan Title */
-.pricing-section .plan-title {
-    font-size: 1.5rem;
-    font-weight: bold;
-    margin-bottom: 10px;
-}
+    <style>
+        .free-feature {
+            border-left: 4px solid #28a745;
+            padding: 8px 12px;
+            margin-left: -14px;
+            border-radius: 10px;
+            font-weight: 500;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: all 0.3s ease-in-out;
+        }
 
-/* Price Section */
-.pricing-section .price {
-    font-size: 2.5rem;
-    font-weight: bold;
-    color: #fff;
-    display: flex;
-    align-items: baseline;
-    gap: 5px;
-    margin-bottom: 20px;
-}
+        .badge {
+            background: #28a745;
+            color: white;
+            font-size: 12px;
+            padding: 5px 10px;
+            border-radius: 12px;
+            font-weight: bold;
+        }
 
-.pricing-section .price .currency {
-    font-size: 1.5
+        .btn {
+            color: #ff0000;
+        }
 
-}
-.pricing-section .cta .btn {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #ff0000; /* New button color */
-    color: #fff;
-    text-decoration: none;
-    font-weight: bold;
-    border-radius: 5px;
-    transition: background-color 0.3s;
-}
+        /* Pricing Section */
+        .pricing-section {
 
-.pricing-section .cta .btn:hover {
-    background-color: #b00000; /* New hover color */
-}
-</style>
+            padding: 40px 0;
+        }
 
-        <?php include ('includes/footer.php');?>
-        
+        .pricing-section .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 50px;
+            text-align: center;
+        }
+
+        .pricing-section .section-title h2 {
+            font-size: 3.5rem;
+            margin-bottom: 10px;
+            color: #ffffff;
+        }
+
+        .pricing-section .section-title p {
+            font-size: 1.5rem;
+            color: #aaa;
+            margin-bottom: 40px;
+        }
+
+        /* Pricing Cards */
+        .pricing-section .pricing-cards {
+            display: flex;
+            justify-content: space-around;
+            gap: 60px;
+            flex-wrap: wrap;
+        }
+
+        .pricing-section .pricing-card {
+
+            padding: 20px;
+            border-radius: 8px;
+            width: 100%;
+            max-width: 300px;
+            text-align: left;
+            position: relative;
+            color: #ffffff;
+        }
+
+        .pricing-section .pricing-card.best-sale::before {
+            content: "Best Sale";
+            position: absolute;
+            top: -10px;
+            right: -10px;
+            background-color: #b00000;
+            color: #fff;
+            padding: 5px 10px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            transform: rotate(45deg);
+        }
+
+        /* Plan Title */
+        .pricing-section .plan-title {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        /* Price Section */
+        .pricing-section .price {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #fff;
+            display: flex;
+            align-items: baseline;
+            gap: 5px;
+            margin-bottom: 20px;
+        }
+
+        .pricing-section .price .currency {
+            font-size: 1.5
+        }
+
+        .pricing-section .cta .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #ff0000;
+            /* New button color */
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        .pricing-section .cta .btn:hover {
+            background-color: #b00000;
+            /* New hover color */
+        }
+    </style>
+
+    <?php include('includes/footer.php'); ?>
+
     </main>
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K5VSCQZZ"
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-        <!-- End Google Tag Manager (noscript) -->
-        <script async src='https://d2mpatx37cqexb.cloudfront.net/delightchat-whatsapp-widget/embeds/embed.min.js'></script>
-        <script>
-          var wa_btnSetting = {"btnColor":"#16BE45","ctaText":"Message us","cornerRadius":40,"marginBottom":100,"marginLeft":20,"marginRight":20,"btnPosition":"left","whatsAppNumber":"447403655762","welcomeMessage":"Hello","zIndex":999999,"btnColorScheme":"light"};
-          window.onload = () => {
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K5VSCQZZ" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <script async src='https://d2mpatx37cqexb.cloudfront.net/delightchat-whatsapp-widget/embeds/embed.min.js'></script>
+    <script>
+        var wa_btnSetting = { "btnColor": "#16BE45", "ctaText": "Message us", "cornerRadius": 40, "marginBottom": 100, "marginLeft": 20, "marginRight": 20, "btnPosition": "left", "whatsAppNumber": "447403655762", "welcomeMessage": "Hello", "zIndex": 999999, "btnColorScheme": "light" };
+        window.onload = () => {
             _waEmbed(wa_btnSetting);
-          };
-        </script>
+        };
+    </script>
     <!-- <script
         type="text/javascript">!function () {
                 var e = {
@@ -396,7 +431,7 @@
         }
     </script>
     <script type="text/javascript">
-        (function() {
+        (function () {
             var options = {
                 telegram: "greylabelfx", // Telegram bot username
                 call_to_action: "Message us", // Call to action
@@ -410,7 +445,7 @@
             s.type = 'text/javascript';
             s.async = true;
             s.src = url + '/widget-send-button/js/init.js';
-            s.onload = function() {
+            s.onload = function () {
                 WhWidgetSendButton.init(host, proto, options);
             };
             var x = document.getElementsByTagName('script')[0];
@@ -418,7 +453,7 @@
         })();
     </script>
 
-<script type="application/ld+json">
+    <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Organization",
@@ -448,48 +483,48 @@
     </div>
 
     <!-- Modernizr -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/3.11.7/modernizr.min.js" defer></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/3.11.7/modernizr.min.js" defer></script>
 
-<!-- jQuery -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js" defer></script>
+    <!-- jQuery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js" defer></script>
 
-<!-- Bootstrap -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js" defer></script>
+    <!-- Bootstrap -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js" defer></script>
 
-<!-- Popper.js -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.8/umd/popper.min.js" defer></script>
+    <!-- Popper.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.8/umd/popper.min.js" defer></script>
 
-<!-- Feather Icons -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/feather-icons/4.29.0/feather.min.js" defer></script>
+    <!-- Feather Icons -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/feather-icons/4.29.0/feather.min.js" defer></script>
 
-<!-- Slick Carousel -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" defer></script>
+    <!-- Slick Carousel -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" defer></script>
 
-<!-- Lightbox -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js" defer></script>
+    <!-- Lightbox -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js" defer></script>
 
-<!-- Remaining scripts retained from assets folder -->
-<script src="assets/js/vendor/waypoint.min.js" defer></script>
-<script src="assets/js/vendor/wow.min.js" defer></script>
-<script src="assets/js/vendor/counterup.min.js" defer></script>
-<script src="assets/js/vendor/sal.min.js" defer></script>
-<script src="assets/js/vendor/masonry.js" defer></script>
-<script src="assets/js/vendor/imageloaded.js" defer></script>
-<script src="assets/js/vendor/magnify.min.js" defer></script>
-<script src="assets/js/vendor/easypie.js" defer></script>
-<script src="assets/js/vendor/text-type.js" defer></script>
-<script src="assets/js/vendor/jquery.style.swicher.js" defer></script>
-<script src="assets/js/vendor/js.cookie.js" defer></script>
-<script src="assets/js/vendor/jquery-one-page-nav.js" defer></script>
+    <!-- Remaining scripts retained from assets folder -->
+    <script src="assets/js/vendor/waypoint.min.js" defer></script>
+    <script src="assets/js/vendor/wow.min.js" defer></script>
+    <script src="assets/js/vendor/counterup.min.js" defer></script>
+    <script src="assets/js/vendor/sal.min.js" defer></script>
+    <script src="assets/js/vendor/masonry.js" defer></script>
+    <script src="assets/js/vendor/imageloaded.js" defer></script>
+    <script src="assets/js/vendor/magnify.min.js" defer></script>
+    <script src="assets/js/vendor/easypie.js" defer></script>
+    <script src="assets/js/vendor/text-type.js" defer></script>
+    <script src="assets/js/vendor/jquery.style.swicher.js" defer></script>
+    <script src="assets/js/vendor/js.cookie.js" defer></script>
+    <script src="assets/js/vendor/jquery-one-page-nav.js" defer></script>
 
-<!-- Google reCAPTCHA -->
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <!-- Google reCAPTCHA -->
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
-<!-- Main JS -->
-<script src="assets/js/main.js" defer></script>
+    <!-- Main JS -->
+    <script src="assets/js/main.js" defer></script>
 
-</body>
+    </body>
 
 
 
-</html>
+    </html>
