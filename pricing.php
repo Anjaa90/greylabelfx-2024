@@ -14,7 +14,7 @@
             <div class="pricing-cards">
                 <!-- Updated Pricing Card 1 -->
                 <div class="pricing-card">
-                    <h3 class="plan-title">FX Greylabel Server-Generic</h3>
+                    <h3 class="plan-title">FX Greylabel Server - Generic</h3>
                     <div class="price"><span class="currency">$</span>500 PER MONTH</span>
                     </div>
                     <p style="color: #fff; font-size: 22px;">Setup Fee $0</p>
@@ -32,7 +32,7 @@
 
                 <!-- Updated Pricing Card 2 -->
                 <div class="pricing-card">
-                    <h3 class="plan-title">FX Greylabel Server-Branded</h3>
+                    <h3 class="plan-title">FX Greylabel Server - Branded</h3>
                     <div class="price"><span class="currency">$</span>2500 PER MONTH</span></div>
                     <p style="color: #fff; font-size: 22px;">Setup Fee $0</p>
                     <ul class="features">
@@ -49,7 +49,7 @@
 
                 <!-- Updated Pricing Card 3 -->
                 <div class="pricing-card">
-                    <h3 class="plan-title">FX Greylabel Server- Branded</h3>
+                    <h3 class="plan-title">FX Greylabel Server - Branded+</h3>
                     <div class="price"><span class="currency">$</span>4250 PER MONTH</span></div>
                     <p style="color: #fff; font-size: 22px;">Setup Fee $0</p>
                     <ul class="features">
