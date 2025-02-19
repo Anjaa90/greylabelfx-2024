@@ -270,7 +270,7 @@
                             <div class="col-lg-12 col-xl-6 col-12">
                                 <div class="split-inner">
                                     <h2 class="title" data-sal="slide-up" data-sal-duration="700" data-sal-delay="100">
-                                        Most Useful FOR YOU</h2>
+                                        Most Useful For Your</h2>
                                     <h3 class="description" data-sal="slide-up" data-sal-duration="700"
                                         data-sal-delay="300">Infrastructure</h3><br>
                                     <ul class="split-list" data-sal="slide-up" data-sal-duration="700"
