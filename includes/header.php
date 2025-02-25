@@ -150,7 +150,7 @@
         <div class="rn-header header-default header-not-transparent header-sticky">
             <div class="container position-relative">
                 <div class="row align-items-center row--0">
-                    <div class="col-lg-3 col-md-6 col-4">
+                    <div class="col-lg-3 col-md-6">
                         <div class="logo">
                             <a href="index.php">
                                 <img class="logo-light" src="assets/images/logo/white-01.webp" alt="Corporate Logo">
